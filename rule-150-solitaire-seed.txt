@@ -1,0 +1,1001 @@
+{'rule_no': '150', 'binary_rule': '10010110', 'seed_length': 67, 'sides': '00', 'symbols': 'x ', 'iterations': 1000}
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx xxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx   xxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx x x xxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx  x x  xxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx xxx xxx xxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx   x   x   xxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx x xxx xxx x xxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx  x  x   x  x  xxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxx xxxxxxx xxxxxxx xxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxx   xxxxx   xxxxx   xxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxx x x xxx x x xxx x x xxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxx  x x  x  x x  x  x x  xxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxx xxx xxxxxxx xxxxxxx xxx xxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxx   x   xxxxx   xxxxx   x   xxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxx x xxx x xxx x x xxx x xxx x xxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxx  x  x  x  x  x x  x  x  x  x  xxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxx xxxxxxxxxxxxxxx xxxxxxxxxxxxxxx xxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxx   xxxxxxxxxxxxx   xxxxxxxxxxxxx   xxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxx x x xxxxxxxxxxx x x xxxxxxxxxxx x x xxxxxxxxxxx
+xxxxxxxxxxxxxxxxxx  x x  xxxxxxxxx  x x  xxxxxxxxx  x x  xxxxxxxxxx
+xxxxxxxxxxxxxxxxx xxx xxx xxxxxxx xxx xxx xxxxxxx xxx xxx xxxxxxxxx
+xxxxxxxxxxxxxxxx   x   x   xxxxx   x   x   xxxxx   x   x   xxxxxxxx
+xxxxxxxxxxxxxxx x xxx xxx x xxx x xxx xxx x xxx x xxx xxx x xxxxxxx
+xxxxxxxxxxxxxx  x  x   x  x  x  x  x   x  x  x  x  x   x  x  xxxxxx
+xxxxxxxxxxxxx xxxxxxx xxxxxxxxxxxxxxx xxxxxxxxxxxxxxx xxxxxxx xxxxx
+xxxxxxxxxxxx   xxxxx   xxxxxxxxxxxxx   xxxxxxxxxxxxx   xxxxx   xxxx
+xxxxxxxxxxx x x xxx x x xxxxxxxxxxx x x xxxxxxxxxxx x x xxx x x xxx
+xxxxxxxxxx  x x  x  x x  xxxxxxxxx  x x  xxxxxxxxx  x x  x  x x  xx
+xxxxxxxxx xxx xxxxxxx xxx xxxxxxx xxx xxx xxxxxxx xxx xxxxxxx xxx x
+xxxxxxxx   x   xxxxx   x   xxxxx   x   x   xxxxx   x   xxxxx   x   
+xxxxxxx x xxx x xxx x xxx x xxx x xxx xxx x xxx x xxx x xxx x xxx x
+xxxxxx  x  x  x  x  x  x  x  x  x  x   x  x  x  x  x  x  x  x  x   
+xxxxx xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx xxxxxxxxxxxxxxxxxxxxxxxxxxx x
+xxxx   xxxxxxxxxxxxxxxxxxxxxxxxxxxxx   xxxxxxxxxxxxxxxxxxxxxxxxx   
+xxx x x xxxxxxxxxxxxxxxxxxxxxxxxxxx x x xxxxxxxxxxxxxxxxxxxxxxx x x
+xx  x x  xxxxxxxxxxxxxxxxxxxxxxxxx  x x  xxxxxxxxxxxxxxxxxxxxx  x  
+x xxx xxx xxxxxxxxxxxxxxxxxxxxxxx xxx xxx xxxxxxxxxxxxxxxxxxx xxxxx
+   x   x   xxxxxxxxxxxxxxxxxxxxx   x   x   xxxxxxxxxxxxxxxxx   xxxx
+x xxx xxx x xxxxxxxxxxxxxxxxxxx x xxx xxx x xxxxxxxxxxxxxxx x x xxx
+   x   x  x  xxxxxxxxxxxxxxxxx  x  x   x  x  xxxxxxxxxxxxx  x x  xx
+x xxx xxxxxxx xxxxxxxxxxxxxxx xxxxxxx xxxxxxx xxxxxxxxxxx xxx xxx x
+   x   xxxxx   xxxxxxxxxxxxx   xxxxx   xxxxx   xxxxxxxxx   x   x   
+x xxx x xxx x x xxxxxxxxxxx x x xxx x x xxx x x xxxxxxx x xxx xxx x
+   x  x  x  x x  xxxxxxxxx  x x  x  x x  x  x x  xxxxx  x  x   x   
+x xxxxxxxxxxx xxx xxxxxxx xxx xxxxxxx xxxxxxx xxx xxx xxxxxxx xxx x
+   xxxxxxxxx   x   xxxxx   x   xxxxx   xxxxx   x   x   xxxxx   x   
+x x xxxxxxx x xxx x xxx x xxx x xxx x x xxx x xxx xxx x xxx x xxx x
+  x  xxxxx  x  x  x  x  x  x  x  x  x x  x  x  x   x  x  x  x  x   
+xxxxx xxx xxxxxxxxxxxxxxxxxxxxxxxxxxx xxxxxxxxxxx xxxxxxxxxxxxxxx x
+xxxx   x   xxxxxxxxxxxxxxxxxxxxxxxxx   xxxxxxxxx   xxxxxxxxxxxxx   
+xxx x xxx x xxxxxxxxxxxxxxxxxxxxxxx x x xxxxxxx x x xxxxxxxxxxx x x
+xx  x  x  x  xxxxxxxxxxxxxxxxxxxxx  x x  xxxxx  x x  xxxxxxxxx  x  
+x xxxxxxxxxxx xxxxxxxxxxxxxxxxxxx xxx xxx xxx xxx xxx xxxxxxx xxxxx
+   xxxxxxxxx   xxxxxxxxxxxxxxxxx   x   x   x   x   x   xxxxx   xxxx
+x x xxxxxxx x x xxxxxxxxxxxxxxx x xxx xxx xxx xxx xxx x xxx x x xxx
+  x  xxxxx  x x  xxxxxxxxxxxxx  x  x   x   x   x   x  x  x  x x  xx
+xxxxx xxx xxx xxx xxxxxxxxxxx xxxxxxx xxx xxx xxx xxxxxxxxxxx xxx x
+xxxx   x   x   x   xxxxxxxxx   xxxxx   x   x   x   xxxxxxxxx   x   
+xxx x xxx xxx xxx x xxxxxxx x x xxx x xxx xxx xxx x xxxxxxx x xxx x
+xx  x  x   x   x  x  xxxxx  x x  x  x  x   x   x  x  xxxxx  x  x   
+x xxxxxxx xxx xxxxxxx xxx xxx xxxxxxxxxxx xxx xxxxxxx xxx xxxxxxx x
+   xxxxx   x   xxxxx   x   x   xxxxxxxxx   x   xxxxx   x   xxxxx   
+x x xxx x xxx x xxx x xxx xxx x xxxxxxx x xxx x xxx x xxx x xxx x x
+  x  x  x  x  x  x  x  x   x  x  xxxxx  x  x  x  x  x  x  x  x  x  
+xxxxxxxxxxxxxxxxxxxxxxxxx xxxxxxx xxx xxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxx   xxxxx   x   xxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxx x x xxx x xxx x xxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxx  x x  x  x  x  x  xxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxx xxx xxxxxxxxxxxxxxx xxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxx   x   xxxxxxxxxxxxx   xxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxx x xxx x xxxxxxxxxxx x x xxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxx  x  x  x  xxxxxxxxx  x x  xxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxx xxxxxxxxxxx xxxxxxx xxx xxx xxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxx   xxxxxxxxx   xxxxx   x   x   xxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxx x x xxxxxxx x x xxx x xxx xxx x xxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxx  x x  xxxxx  x x  x  x  x   x  x  xxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxx xxx xxx xxx xxx xxxxxxxxxxx xxxxxxx xxxxxxxxxxxxxxxxx
+xxxxxxxxxxxx   x   x   x   x   xxxxxxxxx   xxxxx   xxxxxxxxxxxxxxxx
+xxxxxxxxxxx x xxx xxx xxx xxx x xxxxxxx x x xxx x x xxxxxxxxxxxxxxx
+xxxxxxxxxx  x  x   x   x   x  x  xxxxx  x x  x  x x  xxxxxxxxxxxxxx
+xxxxxxxxx xxxxxxx xxx xxx xxxxxxx xxx xxx xxxxxxx xxx xxxxxxxxxxxxx
+xxxxxxxx   xxxxx   x   x   xxxxx   x   x   xxxxx   x   xxxxxxxxxxxx
+xxxxxxx x x xxx x xxx xxx x xxx x xxx xxx x xxx x xxx x xxxxxxxxxxx
+xxxxxx  x x  x  x  x   x  x  x  x  x   x  x  x  x  x  x  xxxxxxxxxx
+xxxxx xxx xxxxxxxxxxx xxxxxxxxxxxxxxx xxxxxxxxxxxxxxxxxxx xxxxxxxxx
+xxxx   x   xxxxxxxxx   xxxxxxxxxxxxx   xxxxxxxxxxxxxxxxx   xxxxxxxx
+xxx x xxx x xxxxxxx x x xxxxxxxxxxx x x xxxxxxxxxxxxxxx x x xxxxxxx
+xx  x  x  x  xxxxx  x x  xxxxxxxxx  x x  xxxxxxxxxxxxx  x x  xxxxxx
+x xxxxxxxxxxx xxx xxx xxx xxxxxxx xxx xxx xxxxxxxxxxx xxx xxx xxxxx
+   xxxxxxxxx   x   x   x   xxxxx   x   x   xxxxxxxxx   x   x   xxxx
+x x xxxxxxx x xxx xxx xxx x xxx x xxx xxx x xxxxxxx x xxx xxx x xxx
+  x  xxxxx  x  x   x   x  x  x  x  x   x  x  xxxxx  x  x   x  x  xx
+xxxxx xxx xxxxxxx xxx xxxxxxxxxxxxxxx xxxxxxx xxx xxxxxxx xxxxxxx x
+xxxx   x   xxxxx   x   xxxxxxxxxxxxx   xxxxx   x   xxxxx   xxxxx   
+xxx x xxx x xxx x xxx x xxxxxxxxxxx x x xxx x xxx x xxx x x xxx x x
+xx  x  x  x  x  x  x  x  xxxxxxxxx  x x  x  x  x  x  x  x x  x  x  
+x xxxxxxxxxxxxxxxxxxxxxxx xxxxxxx xxx xxxxxxxxxxxxxxxxxxx xxxxxxxxx
+   xxxxxxxxxxxxxxxxxxxxx   xxxxx   x   xxxxxxxxxxxxxxxxx   xxxxxxxx
+x x xxxxxxxxxxxxxxxxxxx x x xxx x xxx x xxxxxxxxxxxxxxx x x xxxxxxx
+  x  xxxxxxxxxxxxxxxxx  x x  x  x  x  x  xxxxxxxxxxxxx  x x  xxxxxx
+xxxxx xxxxxxxxxxxxxxx xxx xxxxxxxxxxxxxxx xxxxxxxxxxx xxx xxx xxxxx
+xxxx   xxxxxxxxxxxxx   x   xxxxxxxxxxxxx   xxxxxxxxx   x   x   xxxx
+xxx x x xxxxxxxxxxx x xxx x xxxxxxxxxxx x x xxxxxxx x xxx xxx x xxx
+xx  x x  xxxxxxxxx  x  x  x  xxxxxxxxx  x x  xxxxx  x  x   x  x  xx
+x xxx xxx xxxxxxx xxxxxxxxxxx xxxxxxx xxx xxx xxx xxxxxxx xxxxxxx x
+   x   x   xxxxx   xxxxxxxxx   xxxxx   x   x   x   xxxxx   xxxxx   
+x xxx xxx x xxx x x xxxxxxx x x xxx x xxx xxx xxx x xxx x x xxx x x
+   x   x  x  x  x x  xxxxx  x x  x  x  x   x   x  x  x  x x  x  x  
+x xxx xxxxxxxxxxx xxx xxx xxx xxxxxxxxxxx xxx xxxxxxxxxxx xxxxxxxxx
+   x   xxxxxxxxx   x   x   x   xxxxxxxxx   x   xxxxxxxxx   xxxxxxxx
+x xxx x xxxxxxx x xxx xxx xxx x xxxxxxx x xxx x xxxxxxx x x xxxxxxx
+   x  x  xxxxx  x  x   x   x  x  xxxxx  x  x  x  xxxxx  x x  xxxxxx
+x xxxxxxx xxx xxxxxxx xxx xxxxxxx xxx xxxxxxxxxxx xxx xxx xxx xxxxx
+   xxxxx   x   xxxxx   x   xxxxx   x   xxxxxxxxx   x   x   x   xxxx
+x x xxx x xxx x xxx x xxx x xxx x xxx x xxxxxxx x xxx xxx xxx x xxx
+  x  x  x  x  x  x  x  x  x  x  x  x  x  xxxxx  x  x   x   x  x  xx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx xxx xxxxxxx xxx xxxxxxx x
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx   x   xxxxx   x   xxxxx   
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx x xxx x xxx x xxx x xxx x x
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx  x  x  x  x  x  x  x  x  x  
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx xxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx   xxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx x x xxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx  x x  xxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx xxx xxx xxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx   x   x   xxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx x xxx xxx x xxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx  x  x   x  x  xxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxx xxxxxxx xxxxxxx xxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxx   xxxxx   xxxxx   xxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxx x x xxx x x xxx x x xxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxx  x x  x  x x  x  x x  xxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxx xxx xxxxxxx xxxxxxx xxx xxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxx   x   xxxxx   xxxxx   x   xxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxx x xxx x xxx x x xxx x xxx x xxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxx  x  x  x  x  x x  x  x  x  x  xxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxx xxxxxxxxxxxxxxx xxxxxxxxxxxxxxx xxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxx   xxxxxxxxxxxxx   xxxxxxxxxxxxx   xxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxx x x xxxxxxxxxxx x x xxxxxxxxxxx x x xxxxxxxxxxx
+xxxxxxxxxxxxxxxxxx  x x  xxxxxxxxx  x x  xxxxxxxxx  x x  xxxxxxxxxx
+xxxxxxxxxxxxxxxxx xxx xxx xxxxxxx xxx xxx xxxxxxx xxx xxx xxxxxxxxx
+xxxxxxxxxxxxxxxx   x   x   xxxxx   x   x   xxxxx   x   x   xxxxxxxx
+xxxxxxxxxxxxxxx x xxx xxx x xxx x xxx xxx x xxx x xxx xxx x xxxxxxx
+xxxxxxxxxxxxxx  x  x   x  x  x  x  x   x  x  x  x  x   x  x  xxxxxx
+xxxxxxxxxxxxx xxxxxxx xxxxxxxxxxxxxxx xxxxxxxxxxxxxxx xxxxxxx xxxxx
+xxxxxxxxxxxx   xxxxx   xxxxxxxxxxxxx   xxxxxxxxxxxxx   xxxxx   xxxx
+xxxxxxxxxxx x x xxx x x xxxxxxxxxxx x x xxxxxxxxxxx x x xxx x x xxx
+xxxxxxxxxx  x x  x  x x  xxxxxxxxx  x x  xxxxxxxxx  x x  x  x x  xx
+xxxxxxxxx xxx xxxxxxx xxx xxxxxxx xxx xxx xxxxxxx xxx xxxxxxx xxx x
+xxxxxxxx   x   xxxxx   x   xxxxx   x   x   xxxxx   x   xxxxx   x   
+xxxxxxx x xxx x xxx x xxx x xxx x xxx xxx x xxx x xxx x xxx x xxx x
+xxxxxx  x  x  x  x  x  x  x  x  x  x   x  x  x  x  x  x  x  x  x   
+xxxxx xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx xxxxxxxxxxxxxxxxxxxxxxxxxxx x
+xxxx   xxxxxxxxxxxxxxxxxxxxxxxxxxxxx   xxxxxxxxxxxxxxxxxxxxxxxxx   
+xxx x x xxxxxxxxxxxxxxxxxxxxxxxxxxx x x xxxxxxxxxxxxxxxxxxxxxxx x x
+xx  x x  xxxxxxxxxxxxxxxxxxxxxxxxx  x x  xxxxxxxxxxxxxxxxxxxxx  x  
+x xxx xxx xxxxxxxxxxxxxxxxxxxxxxx xxx xxx xxxxxxxxxxxxxxxxxxx xxxxx
+   x   x   xxxxxxxxxxxxxxxxxxxxx   x   x   xxxxxxxxxxxxxxxxx   xxxx
+x xxx xxx x xxxxxxxxxxxxxxxxxxx x xxx xxx x xxxxxxxxxxxxxxx x x xxx
+   x   x  x  xxxxxxxxxxxxxxxxx  x  x   x  x  xxxxxxxxxxxxx  x x  xx
+x xxx xxxxxxx xxxxxxxxxxxxxxx xxxxxxx xxxxxxx xxxxxxxxxxx xxx xxx x
+   x   xxxxx   xxxxxxxxxxxxx   xxxxx   xxxxx   xxxxxxxxx   x   x   
+x xxx x xxx x x xxxxxxxxxxx x x xxx x x xxx x x xxxxxxx x xxx xxx x
+   x  x  x  x x  xxxxxxxxx  x x  x  x x  x  x x  xxxxx  x  x   x   
+x xxxxxxxxxxx xxx xxxxxxx xxx xxxxxxx xxxxxxx xxx xxx xxxxxxx xxx x
+   xxxxxxxxx   x   xxxxx   x   xxxxx   xxxxx   x   x   xxxxx   x   
+x x xxxxxxx x xxx x xxx x xxx x xxx x x xxx x xxx xxx x xxx x xxx x
+  x  xxxxx  x  x  x  x  x  x  x  x  x x  x  x  x   x  x  x  x  x   
+xxxxx xxx xxxxxxxxxxxxxxxxxxxxxxxxxxx xxxxxxxxxxx xxxxxxxxxxxxxxx x
+xxxx   x   xxxxxxxxxxxxxxxxxxxxxxxxx   xxxxxxxxx   xxxxxxxxxxxxx   
+xxx x xxx x xxxxxxxxxxxxxxxxxxxxxxx x x xxxxxxx x x xxxxxxxxxxx x x
+xx  x  x  x  xxxxxxxxxxxxxxxxxxxxx  x x  xxxxx  x x  xxxxxxxxx  x  
+x xxxxxxxxxxx xxxxxxxxxxxxxxxxxxx xxx xxx xxx xxx xxx xxxxxxx xxxxx
+   xxxxxxxxx   xxxxxxxxxxxxxxxxx   x   x   x   x   x   xxxxx   xxxx
+x x xxxxxxx x x xxxxxxxxxxxxxxx x xxx xxx xxx xxx xxx x xxx x x xxx
+  x  xxxxx  x x  xxxxxxxxxxxxx  x  x   x   x   x   x  x  x  x x  xx
+xxxxx xxx xxx xxx xxxxxxxxxxx xxxxxxx xxx xxx xxx xxxxxxxxxxx xxx x
+xxxx   x   x   x   xxxxxxxxx   xxxxx   x   x   x   xxxxxxxxx   x   
+xxx x xxx xxx xxx x xxxxxxx x x xxx x xxx xxx xxx x xxxxxxx x xxx x
+xx  x  x   x   x  x  xxxxx  x x  x  x  x   x   x  x  xxxxx  x  x   
+x xxxxxxx xxx xxxxxxx xxx xxx xxxxxxxxxxx xxx xxxxxxx xxx xxxxxxx x
+   xxxxx   x   xxxxx   x   x   xxxxxxxxx   x   xxxxx   x   xxxxx   
+x x xxx x xxx x xxx x xxx xxx x xxxxxxx x xxx x xxx x xxx x xxx x x
+  x  x  x  x  x  x  x  x   x  x  xxxxx  x  x  x  x  x  x  x  x  x  
+xxxxxxxxxxxxxxxxxxxxxxxxx xxxxxxx xxx xxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxx   xxxxx   x   xxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxx x x xxx x xxx x xxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxx  x x  x  x  x  x  xxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxx xxx xxxxxxxxxxxxxxx xxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxx   x   xxxxxxxxxxxxx   xxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxx x xxx x xxxxxxxxxxx x x xxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxx  x  x  x  xxxxxxxxx  x x  xxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxx xxxxxxxxxxx xxxxxxx xxx xxx xxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxx   xxxxxxxxx   xxxxx   x   x   xxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxx x x xxxxxxx x x xxx x xxx xxx x xxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxx  x x  xxxxx  x x  x  x  x   x  x  xxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxx xxx xxx xxx xxx xxxxxxxxxxx xxxxxxx xxxxxxxxxxxxxxxxx
+xxxxxxxxxxxx   x   x   x   x   xxxxxxxxx   xxxxx   xxxxxxxxxxxxxxxx
+xxxxxxxxxxx x xxx xxx xxx xxx x xxxxxxx x x xxx x x xxxxxxxxxxxxxxx
+xxxxxxxxxx  x  x   x   x   x  x  xxxxx  x x  x  x x  xxxxxxxxxxxxxx
+xxxxxxxxx xxxxxxx xxx xxx xxxxxxx xxx xxx xxxxxxx xxx xxxxxxxxxxxxx
+xxxxxxxx   xxxxx   x   x   xxxxx   x   x   xxxxx   x   xxxxxxxxxxxx
+xxxxxxx x x xxx x xxx xxx x xxx x xxx xxx x xxx x xxx x xxxxxxxxxxx
+xxxxxx  x x  x  x  x   x  x  x  x  x   x  x  x  x  x  x  xxxxxxxxxx
+xxxxx xxx xxxxxxxxxxx xxxxxxxxxxxxxxx xxxxxxxxxxxxxxxxxxx xxxxxxxxx
+xxxx   x   xxxxxxxxx   xxxxxxxxxxxxx   xxxxxxxxxxxxxxxxx   xxxxxxxx
+xxx x xxx x xxxxxxx x x xxxxxxxxxxx x x xxxxxxxxxxxxxxx x x xxxxxxx
+xx  x  x  x  xxxxx  x x  xxxxxxxxx  x x  xxxxxxxxxxxxx  x x  xxxxxx
+x xxxxxxxxxxx xxx xxx xxx xxxxxxx xxx xxx xxxxxxxxxxx xxx xxx xxxxx
+   xxxxxxxxx   x   x   x   xxxxx   x   x   xxxxxxxxx   x   x   xxxx
+x x xxxxxxx x xxx xxx xxx x xxx x xxx xxx x xxxxxxx x xxx xxx x xxx
+  x  xxxxx  x  x   x   x  x  x  x  x   x  x  xxxxx  x  x   x  x  xx
+xxxxx xxx xxxxxxx xxx xxxxxxxxxxxxxxx xxxxxxx xxx xxxxxxx xxxxxxx x
+xxxx   x   xxxxx   x   xxxxxxxxxxxxx   xxxxx   x   xxxxx   xxxxx   
+xxx x xxx x xxx x xxx x xxxxxxxxxxx x x xxx x xxx x xxx x x xxx x x
+xx  x  x  x  x  x  x  x  xxxxxxxxx  x x  x  x  x  x  x  x x  x  x  
+x xxxxxxxxxxxxxxxxxxxxxxx xxxxxxx xxx xxxxxxxxxxxxxxxxxxx xxxxxxxxx
+   xxxxxxxxxxxxxxxxxxxxx   xxxxx   x   xxxxxxxxxxxxxxxxx   xxxxxxxx
+x x xxxxxxxxxxxxxxxxxxx x x xxx x xxx x xxxxxxxxxxxxxxx x x xxxxxxx
+  x  xxxxxxxxxxxxxxxxx  x x  x  x  x  x  xxxxxxxxxxxxx  x x  xxxxxx
+xxxxx xxxxxxxxxxxxxxx xxx xxxxxxxxxxxxxxx xxxxxxxxxxx xxx xxx xxxxx
+xxxx   xxxxxxxxxxxxx   x   xxxxxxxxxxxxx   xxxxxxxxx   x   x   xxxx
+xxx x x xxxxxxxxxxx x xxx x xxxxxxxxxxx x x xxxxxxx x xxx xxx x xxx
+xx  x x  xxxxxxxxx  x  x  x  xxxxxxxxx  x x  xxxxx  x  x   x  x  xx
+x xxx xxx xxxxxxx xxxxxxxxxxx xxxxxxx xxx xxx xxx xxxxxxx xxxxxxx x
+   x   x   xxxxx   xxxxxxxxx   xxxxx   x   x   x   xxxxx   xxxxx   
+x xxx xxx x xxx x x xxxxxxx x x xxx x xxx xxx xxx x xxx x x xxx x x
+   x   x  x  x  x x  xxxxx  x x  x  x  x   x   x  x  x  x x  x  x  
+x xxx xxxxxxxxxxx xxx xxx xxx xxxxxxxxxxx xxx xxxxxxxxxxx xxxxxxxxx
+   x   xxxxxxxxx   x   x   x   xxxxxxxxx   x   xxxxxxxxx   xxxxxxxx
+x xxx x xxxxxxx x xxx xxx xxx x xxxxxxx x xxx x xxxxxxx x x xxxxxxx
+   x  x  xxxxx  x  x   x   x  x  xxxxx  x  x  x  xxxxx  x x  xxxxxx
+x xxxxxxx xxx xxxxxxx xxx xxxxxxx xxx xxxxxxxxxxx xxx xxx xxx xxxxx
+   xxxxx   x   xxxxx   x   xxxxx   x   xxxxxxxxx   x   x   x   xxxx
+x x xxx x xxx x xxx x xxx x xxx x xxx x xxxxxxx x xxx xxx xxx x xxx
+  x  x  x  x  x  x  x  x  x  x  x  x  x  xxxxx  x  x   x   x  x  xx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx xxx xxxxxxx xxx xxxxxxx x
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx   x   xxxxx   x   xxxxx   
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx x xxx x xxx x xxx x xxx x x
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx  x  x  x  x  x  x  x  x  x  
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx xxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx   xxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx x x xxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx  x x  xxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx xxx xxx xxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx   x   x   xxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx x xxx xxx x xxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx  x  x   x  x  xxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxx xxxxxxx xxxxxxx xxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxx   xxxxx   xxxxx   xxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxx x x xxx x x xxx x x xxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxx  x x  x  x x  x  x x  xxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxx xxx xxxxxxx xxxxxxx xxx xxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxx   x   xxxxx   xxxxx   x   xxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxx x xxx x xxx x x xxx x xxx x xxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxx  x  x  x  x  x x  x  x  x  x  xxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxx xxxxxxxxxxxxxxx xxxxxxxxxxxxxxx xxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxx   xxxxxxxxxxxxx   xxxxxxxxxxxxx   xxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxx x x xxxxxxxxxxx x x xxxxxxxxxxx x x xxxxxxxxxxx
+xxxxxxxxxxxxxxxxxx  x x  xxxxxxxxx  x x  xxxxxxxxx  x x  xxxxxxxxxx
+xxxxxxxxxxxxxxxxx xxx xxx xxxxxxx xxx xxx xxxxxxx xxx xxx xxxxxxxxx
+xxxxxxxxxxxxxxxx   x   x   xxxxx   x   x   xxxxx   x   x   xxxxxxxx
+xxxxxxxxxxxxxxx x xxx xxx x xxx x xxx xxx x xxx x xxx xxx x xxxxxxx
+xxxxxxxxxxxxxx  x  x   x  x  x  x  x   x  x  x  x  x   x  x  xxxxxx
+xxxxxxxxxxxxx xxxxxxx xxxxxxxxxxxxxxx xxxxxxxxxxxxxxx xxxxxxx xxxxx
+xxxxxxxxxxxx   xxxxx   xxxxxxxxxxxxx   xxxxxxxxxxxxx   xxxxx   xxxx
+xxxxxxxxxxx x x xxx x x xxxxxxxxxxx x x xxxxxxxxxxx x x xxx x x xxx
+xxxxxxxxxx  x x  x  x x  xxxxxxxxx  x x  xxxxxxxxx  x x  x  x x  xx
+xxxxxxxxx xxx xxxxxxx xxx xxxxxxx xxx xxx xxxxxxx xxx xxxxxxx xxx x
+xxxxxxxx   x   xxxxx   x   xxxxx   x   x   xxxxx   x   xxxxx   x   
+xxxxxxx x xxx x xxx x xxx x xxx x xxx xxx x xxx x xxx x xxx x xxx x
+xxxxxx  x  x  x  x  x  x  x  x  x  x   x  x  x  x  x  x  x  x  x   
+xxxxx xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx xxxxxxxxxxxxxxxxxxxxxxxxxxx x
+xxxx   xxxxxxxxxxxxxxxxxxxxxxxxxxxxx   xxxxxxxxxxxxxxxxxxxxxxxxx   
+xxx x x xxxxxxxxxxxxxxxxxxxxxxxxxxx x x xxxxxxxxxxxxxxxxxxxxxxx x x
+xx  x x  xxxxxxxxxxxxxxxxxxxxxxxxx  x x  xxxxxxxxxxxxxxxxxxxxx  x  
+x xxx xxx xxxxxxxxxxxxxxxxxxxxxxx xxx xxx xxxxxxxxxxxxxxxxxxx xxxxx
+   x   x   xxxxxxxxxxxxxxxxxxxxx   x   x   xxxxxxxxxxxxxxxxx   xxxx
+x xxx xxx x xxxxxxxxxxxxxxxxxxx x xxx xxx x xxxxxxxxxxxxxxx x x xxx
+   x   x  x  xxxxxxxxxxxxxxxxx  x  x   x  x  xxxxxxxxxxxxx  x x  xx
+x xxx xxxxxxx xxxxxxxxxxxxxxx xxxxxxx xxxxxxx xxxxxxxxxxx xxx xxx x
+   x   xxxxx   xxxxxxxxxxxxx   xxxxx   xxxxx   xxxxxxxxx   x   x   
+x xxx x xxx x x xxxxxxxxxxx x x xxx x x xxx x x xxxxxxx x xxx xxx x
+   x  x  x  x x  xxxxxxxxx  x x  x  x x  x  x x  xxxxx  x  x   x   
+x xxxxxxxxxxx xxx xxxxxxx xxx xxxxxxx xxxxxxx xxx xxx xxxxxxx xxx x
+   xxxxxxxxx   x   xxxxx   x   xxxxx   xxxxx   x   x   xxxxx   x   
+x x xxxxxxx x xxx x xxx x xxx x xxx x x xxx x xxx xxx x xxx x xxx x
+  x  xxxxx  x  x  x  x  x  x  x  x  x x  x  x  x   x  x  x  x  x   
+xxxxx xxx xxxxxxxxxxxxxxxxxxxxxxxxxxx xxxxxxxxxxx xxxxxxxxxxxxxxx x
+xxxx   x   xxxxxxxxxxxxxxxxxxxxxxxxx   xxxxxxxxx   xxxxxxxxxxxxx   
+xxx x xxx x xxxxxxxxxxxxxxxxxxxxxxx x x xxxxxxx x x xxxxxxxxxxx x x
+xx  x  x  x  xxxxxxxxxxxxxxxxxxxxx  x x  xxxxx  x x  xxxxxxxxx  x  
+x xxxxxxxxxxx xxxxxxxxxxxxxxxxxxx xxx xxx xxx xxx xxx xxxxxxx xxxxx
+   xxxxxxxxx   xxxxxxxxxxxxxxxxx   x   x   x   x   x   xxxxx   xxxx
+x x xxxxxxx x x xxxxxxxxxxxxxxx x xxx xxx xxx xxx xxx x xxx x x xxx
+  x  xxxxx  x x  xxxxxxxxxxxxx  x  x   x   x   x   x  x  x  x x  xx
+xxxxx xxx xxx xxx xxxxxxxxxxx xxxxxxx xxx xxx xxx xxxxxxxxxxx xxx x
+xxxx   x   x   x   xxxxxxxxx   xxxxx   x   x   x   xxxxxxxxx   x   
+xxx x xxx xxx xxx x xxxxxxx x x xxx x xxx xxx xxx x xxxxxxx x xxx x
+xx  x  x   x   x  x  xxxxx  x x  x  x  x   x   x  x  xxxxx  x  x   
+x xxxxxxx xxx xxxxxxx xxx xxx xxxxxxxxxxx xxx xxxxxxx xxx xxxxxxx x
+   xxxxx   x   xxxxx   x   x   xxxxxxxxx   x   xxxxx   x   xxxxx   
+x x xxx x xxx x xxx x xxx xxx x xxxxxxx x xxx x xxx x xxx x xxx x x
+  x  x  x  x  x  x  x  x   x  x  xxxxx  x  x  x  x  x  x  x  x  x  
+xxxxxxxxxxxxxxxxxxxxxxxxx xxxxxxx xxx xxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxx   xxxxx   x   xxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxx x x xxx x xxx x xxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxx  x x  x  x  x  x  xxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxx xxx xxxxxxxxxxxxxxx xxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxx   x   xxxxxxxxxxxxx   xxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxx x xxx x xxxxxxxxxxx x x xxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxx  x  x  x  xxxxxxxxx  x x  xxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxx xxxxxxxxxxx xxxxxxx xxx xxx xxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxx   xxxxxxxxx   xxxxx   x   x   xxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxx x x xxxxxxx x x xxx x xxx xxx x xxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxx  x x  xxxxx  x x  x  x  x   x  x  xxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxx xxx xxx xxx xxx xxxxxxxxxxx xxxxxxx xxxxxxxxxxxxxxxxx
+xxxxxxxxxxxx   x   x   x   x   xxxxxxxxx   xxxxx   xxxxxxxxxxxxxxxx
+xxxxxxxxxxx x xxx xxx xxx xxx x xxxxxxx x x xxx x x xxxxxxxxxxxxxxx
+xxxxxxxxxx  x  x   x   x   x  x  xxxxx  x x  x  x x  xxxxxxxxxxxxxx
+xxxxxxxxx xxxxxxx xxx xxx xxxxxxx xxx xxx xxxxxxx xxx xxxxxxxxxxxxx
+xxxxxxxx   xxxxx   x   x   xxxxx   x   x   xxxxx   x   xxxxxxxxxxxx
+xxxxxxx x x xxx x xxx xxx x xxx x xxx xxx x xxx x xxx x xxxxxxxxxxx
+xxxxxx  x x  x  x  x   x  x  x  x  x   x  x  x  x  x  x  xxxxxxxxxx
+xxxxx xxx xxxxxxxxxxx xxxxxxxxxxxxxxx xxxxxxxxxxxxxxxxxxx xxxxxxxxx
+xxxx   x   xxxxxxxxx   xxxxxxxxxxxxx   xxxxxxxxxxxxxxxxx   xxxxxxxx
+xxx x xxx x xxxxxxx x x xxxxxxxxxxx x x xxxxxxxxxxxxxxx x x xxxxxxx
+xx  x  x  x  xxxxx  x x  xxxxxxxxx  x x  xxxxxxxxxxxxx  x x  xxxxxx
+x xxxxxxxxxxx xxx xxx xxx xxxxxxx xxx xxx xxxxxxxxxxx xxx xxx xxxxx
+   xxxxxxxxx   x   x   x   xxxxx   x   x   xxxxxxxxx   x   x   xxxx
+x x xxxxxxx x xxx xxx xxx x xxx x xxx xxx x xxxxxxx x xxx xxx x xxx
+  x  xxxxx  x  x   x   x  x  x  x  x   x  x  xxxxx  x  x   x  x  xx
+xxxxx xxx xxxxxxx xxx xxxxxxxxxxxxxxx xxxxxxx xxx xxxxxxx xxxxxxx x
+xxxx   x   xxxxx   x   xxxxxxxxxxxxx   xxxxx   x   xxxxx   xxxxx   
+xxx x xxx x xxx x xxx x xxxxxxxxxxx x x xxx x xxx x xxx x x xxx x x
+xx  x  x  x  x  x  x  x  xxxxxxxxx  x x  x  x  x  x  x  x x  x  x  
+x xxxxxxxxxxxxxxxxxxxxxxx xxxxxxx xxx xxxxxxxxxxxxxxxxxxx xxxxxxxxx
+   xxxxxxxxxxxxxxxxxxxxx   xxxxx   x   xxxxxxxxxxxxxxxxx   xxxxxxxx
+x x xxxxxxxxxxxxxxxxxxx x x xxx x xxx x xxxxxxxxxxxxxxx x x xxxxxxx
+  x  xxxxxxxxxxxxxxxxx  x x  x  x  x  x  xxxxxxxxxxxxx  x x  xxxxxx
+xxxxx xxxxxxxxxxxxxxx xxx xxxxxxxxxxxxxxx xxxxxxxxxxx xxx xxx xxxxx
+xxxx   xxxxxxxxxxxxx   x   xxxxxxxxxxxxx   xxxxxxxxx   x   x   xxxx
+xxx x x xxxxxxxxxxx x xxx x xxxxxxxxxxx x x xxxxxxx x xxx xxx x xxx
+xx  x x  xxxxxxxxx  x  x  x  xxxxxxxxx  x x  xxxxx  x  x   x  x  xx
+x xxx xxx xxxxxxx xxxxxxxxxxx xxxxxxx xxx xxx xxx xxxxxxx xxxxxxx x
+   x   x   xxxxx   xxxxxxxxx   xxxxx   x   x   x   xxxxx   xxxxx   
+x xxx xxx x xxx x x xxxxxxx x x xxx x xxx xxx xxx x xxx x x xxx x x
+   x   x  x  x  x x  xxxxx  x x  x  x  x   x   x  x  x  x x  x  x  
+x xxx xxxxxxxxxxx xxx xxx xxx xxxxxxxxxxx xxx xxxxxxxxxxx xxxxxxxxx
+   x   xxxxxxxxx   x   x   x   xxxxxxxxx   x   xxxxxxxxx   xxxxxxxx
+x xxx x xxxxxxx x xxx xxx xxx x xxxxxxx x xxx x xxxxxxx x x xxxxxxx
+   x  x  xxxxx  x  x   x   x  x  xxxxx  x  x  x  xxxxx  x x  xxxxxx
+x xxxxxxx xxx xxxxxxx xxx xxxxxxx xxx xxxxxxxxxxx xxx xxx xxx xxxxx
+   xxxxx   x   xxxxx   x   xxxxx   x   xxxxxxxxx   x   x   x   xxxx
+x x xxx x xxx x xxx x xxx x xxx x xxx x xxxxxxx x xxx xxx xxx x xxx
+  x  x  x  x  x  x  x  x  x  x  x  x  x  xxxxx  x  x   x   x  x  xx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx xxx xxxxxxx xxx xxxxxxx x
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx   x   xxxxx   x   xxxxx   
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx x xxx x xxx x xxx x xxx x x
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx  x  x  x  x  x  x  x  x  x  
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx xxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx   xxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx x x xxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx  x x  xxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx xxx xxx xxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx   x   x   xxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx x xxx xxx x xxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx  x  x   x  x  xxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxx xxxxxxx xxxxxxx xxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxx   xxxxx   xxxxx   xxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxx x x xxx x x xxx x x xxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxx  x x  x  x x  x  x x  xxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxx xxx xxxxxxx xxxxxxx xxx xxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxx   x   xxxxx   xxxxx   x   xxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxx x xxx x xxx x x xxx x xxx x xxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxx  x  x  x  x  x x  x  x  x  x  xxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxx xxxxxxxxxxxxxxx xxxxxxxxxxxxxxx xxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxx   xxxxxxxxxxxxx   xxxxxxxxxxxxx   xxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxx x x xxxxxxxxxxx x x xxxxxxxxxxx x x xxxxxxxxxxx
+xxxxxxxxxxxxxxxxxx  x x  xxxxxxxxx  x x  xxxxxxxxx  x x  xxxxxxxxxx
+xxxxxxxxxxxxxxxxx xxx xxx xxxxxxx xxx xxx xxxxxxx xxx xxx xxxxxxxxx
+xxxxxxxxxxxxxxxx   x   x   xxxxx   x   x   xxxxx   x   x   xxxxxxxx
+xxxxxxxxxxxxxxx x xxx xxx x xxx x xxx xxx x xxx x xxx xxx x xxxxxxx
+xxxxxxxxxxxxxx  x  x   x  x  x  x  x   x  x  x  x  x   x  x  xxxxxx
+xxxxxxxxxxxxx xxxxxxx xxxxxxxxxxxxxxx xxxxxxxxxxxxxxx xxxxxxx xxxxx
+xxxxxxxxxxxx   xxxxx   xxxxxxxxxxxxx   xxxxxxxxxxxxx   xxxxx   xxxx
+xxxxxxxxxxx x x xxx x x xxxxxxxxxxx x x xxxxxxxxxxx x x xxx x x xxx
+xxxxxxxxxx  x x  x  x x  xxxxxxxxx  x x  xxxxxxxxx  x x  x  x x  xx
+xxxxxxxxx xxx xxxxxxx xxx xxxxxxx xxx xxx xxxxxxx xxx xxxxxxx xxx x
+xxxxxxxx   x   xxxxx   x   xxxxx   x   x   xxxxx   x   xxxxx   x   
+xxxxxxx x xxx x xxx x xxx x xxx x xxx xxx x xxx x xxx x xxx x xxx x
+xxxxxx  x  x  x  x  x  x  x  x  x  x   x  x  x  x  x  x  x  x  x   
+xxxxx xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx xxxxxxxxxxxxxxxxxxxxxxxxxxx x
+xxxx   xxxxxxxxxxxxxxxxxxxxxxxxxxxxx   xxxxxxxxxxxxxxxxxxxxxxxxx   
+xxx x x xxxxxxxxxxxxxxxxxxxxxxxxxxx x x xxxxxxxxxxxxxxxxxxxxxxx x x
+xx  x x  xxxxxxxxxxxxxxxxxxxxxxxxx  x x  xxxxxxxxxxxxxxxxxxxxx  x  
+x xxx xxx xxxxxxxxxxxxxxxxxxxxxxx xxx xxx xxxxxxxxxxxxxxxxxxx xxxxx
+   x   x   xxxxxxxxxxxxxxxxxxxxx   x   x   xxxxxxxxxxxxxxxxx   xxxx
+x xxx xxx x xxxxxxxxxxxxxxxxxxx x xxx xxx x xxxxxxxxxxxxxxx x x xxx
+   x   x  x  xxxxxxxxxxxxxxxxx  x  x   x  x  xxxxxxxxxxxxx  x x  xx
+x xxx xxxxxxx xxxxxxxxxxxxxxx xxxxxxx xxxxxxx xxxxxxxxxxx xxx xxx x
+   x   xxxxx   xxxxxxxxxxxxx   xxxxx   xxxxx   xxxxxxxxx   x   x   
+x xxx x xxx x x xxxxxxxxxxx x x xxx x x xxx x x xxxxxxx x xxx xxx x
+   x  x  x  x x  xxxxxxxxx  x x  x  x x  x  x x  xxxxx  x  x   x   
+x xxxxxxxxxxx xxx xxxxxxx xxx xxxxxxx xxxxxxx xxx xxx xxxxxxx xxx x
+   xxxxxxxxx   x   xxxxx   x   xxxxx   xxxxx   x   x   xxxxx   x   
+x x xxxxxxx x xxx x xxx x xxx x xxx x x xxx x xxx xxx x xxx x xxx x
+  x  xxxxx  x  x  x  x  x  x  x  x  x x  x  x  x   x  x  x  x  x   
+xxxxx xxx xxxxxxxxxxxxxxxxxxxxxxxxxxx xxxxxxxxxxx xxxxxxxxxxxxxxx x
+xxxx   x   xxxxxxxxxxxxxxxxxxxxxxxxx   xxxxxxxxx   xxxxxxxxxxxxx   
+xxx x xxx x xxxxxxxxxxxxxxxxxxxxxxx x x xxxxxxx x x xxxxxxxxxxx x x
+xx  x  x  x  xxxxxxxxxxxxxxxxxxxxx  x x  xxxxx  x x  xxxxxxxxx  x  
+x xxxxxxxxxxx xxxxxxxxxxxxxxxxxxx xxx xxx xxx xxx xxx xxxxxxx xxxxx
+   xxxxxxxxx   xxxxxxxxxxxxxxxxx   x   x   x   x   x   xxxxx   xxxx
+x x xxxxxxx x x xxxxxxxxxxxxxxx x xxx xxx xxx xxx xxx x xxx x x xxx
+  x  xxxxx  x x  xxxxxxxxxxxxx  x  x   x   x   x   x  x  x  x x  xx
+xxxxx xxx xxx xxx xxxxxxxxxxx xxxxxxx xxx xxx xxx xxxxxxxxxxx xxx x
+xxxx   x   x   x   xxxxxxxxx   xxxxx   x   x   x   xxxxxxxxx   x   
+xxx x xxx xxx xxx x xxxxxxx x x xxx x xxx xxx xxx x xxxxxxx x xxx x
+xx  x  x   x   x  x  xxxxx  x x  x  x  x   x   x  x  xxxxx  x  x   
+x xxxxxxx xxx xxxxxxx xxx xxx xxxxxxxxxxx xxx xxxxxxx xxx xxxxxxx x
+   xxxxx   x   xxxxx   x   x   xxxxxxxxx   x   xxxxx   x   xxxxx   
+x x xxx x xxx x xxx x xxx xxx x xxxxxxx x xxx x xxx x xxx x xxx x x
+  x  x  x  x  x  x  x  x   x  x  xxxxx  x  x  x  x  x  x  x  x  x  
+xxxxxxxxxxxxxxxxxxxxxxxxx xxxxxxx xxx xxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxx   xxxxx   x   xxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxx x x xxx x xxx x xxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxx  x x  x  x  x  x  xxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxx xxx xxxxxxxxxxxxxxx xxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxx   x   xxxxxxxxxxxxx   xxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxx x xxx x xxxxxxxxxxx x x xxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxx  x  x  x  xxxxxxxxx  x x  xxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxx xxxxxxxxxxx xxxxxxx xxx xxx xxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxx   xxxxxxxxx   xxxxx   x   x   xxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxx x x xxxxxxx x x xxx x xxx xxx x xxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxx  x x  xxxxx  x x  x  x  x   x  x  xxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxx xxx xxx xxx xxx xxxxxxxxxxx xxxxxxx xxxxxxxxxxxxxxxxx
+xxxxxxxxxxxx   x   x   x   x   xxxxxxxxx   xxxxx   xxxxxxxxxxxxxxxx
+xxxxxxxxxxx x xxx xxx xxx xxx x xxxxxxx x x xxx x x xxxxxxxxxxxxxxx
+xxxxxxxxxx  x  x   x   x   x  x  xxxxx  x x  x  x x  xxxxxxxxxxxxxx
+xxxxxxxxx xxxxxxx xxx xxx xxxxxxx xxx xxx xxxxxxx xxx xxxxxxxxxxxxx
+xxxxxxxx   xxxxx   x   x   xxxxx   x   x   xxxxx   x   xxxxxxxxxxxx
+xxxxxxx x x xxx x xxx xxx x xxx x xxx xxx x xxx x xxx x xxxxxxxxxxx
+xxxxxx  x x  x  x  x   x  x  x  x  x   x  x  x  x  x  x  xxxxxxxxxx
+xxxxx xxx xxxxxxxxxxx xxxxxxxxxxxxxxx xxxxxxxxxxxxxxxxxxx xxxxxxxxx
+xxxx   x   xxxxxxxxx   xxxxxxxxxxxxx   xxxxxxxxxxxxxxxxx   xxxxxxxx
+xxx x xxx x xxxxxxx x x xxxxxxxxxxx x x xxxxxxxxxxxxxxx x x xxxxxxx
+xx  x  x  x  xxxxx  x x  xxxxxxxxx  x x  xxxxxxxxxxxxx  x x  xxxxxx
+x xxxxxxxxxxx xxx xxx xxx xxxxxxx xxx xxx xxxxxxxxxxx xxx xxx xxxxx
+   xxxxxxxxx   x   x   x   xxxxx   x   x   xxxxxxxxx   x   x   xxxx
+x x xxxxxxx x xxx xxx xxx x xxx x xxx xxx x xxxxxxx x xxx xxx x xxx
+  x  xxxxx  x  x   x   x  x  x  x  x   x  x  xxxxx  x  x   x  x  xx
+xxxxx xxx xxxxxxx xxx xxxxxxxxxxxxxxx xxxxxxx xxx xxxxxxx xxxxxxx x
+xxxx   x   xxxxx   x   xxxxxxxxxxxxx   xxxxx   x   xxxxx   xxxxx   
+xxx x xxx x xxx x xxx x xxxxxxxxxxx x x xxx x xxx x xxx x x xxx x x
+xx  x  x  x  x  x  x  x  xxxxxxxxx  x x  x  x  x  x  x  x x  x  x  
+x xxxxxxxxxxxxxxxxxxxxxxx xxxxxxx xxx xxxxxxxxxxxxxxxxxxx xxxxxxxxx
+   xxxxxxxxxxxxxxxxxxxxx   xxxxx   x   xxxxxxxxxxxxxxxxx   xxxxxxxx
+x x xxxxxxxxxxxxxxxxxxx x x xxx x xxx x xxxxxxxxxxxxxxx x x xxxxxxx
+  x  xxxxxxxxxxxxxxxxx  x x  x  x  x  x  xxxxxxxxxxxxx  x x  xxxxxx
+xxxxx xxxxxxxxxxxxxxx xxx xxxxxxxxxxxxxxx xxxxxxxxxxx xxx xxx xxxxx
+xxxx   xxxxxxxxxxxxx   x   xxxxxxxxxxxxx   xxxxxxxxx   x   x   xxxx
+xxx x x xxxxxxxxxxx x xxx x xxxxxxxxxxx x x xxxxxxx x xxx xxx x xxx
+xx  x x  xxxxxxxxx  x  x  x  xxxxxxxxx  x x  xxxxx  x  x   x  x  xx
+x xxx xxx xxxxxxx xxxxxxxxxxx xxxxxxx xxx xxx xxx xxxxxxx xxxxxxx x
+   x   x   xxxxx   xxxxxxxxx   xxxxx   x   x   x   xxxxx   xxxxx   
+x xxx xxx x xxx x x xxxxxxx x x xxx x xxx xxx xxx x xxx x x xxx x x
+   x   x  x  x  x x  xxxxx  x x  x  x  x   x   x  x  x  x x  x  x  
+x xxx xxxxxxxxxxx xxx xxx xxx xxxxxxxxxxx xxx xxxxxxxxxxx xxxxxxxxx
+   x   xxxxxxxxx   x   x   x   xxxxxxxxx   x   xxxxxxxxx   xxxxxxxx
+x xxx x xxxxxxx x xxx xxx xxx x xxxxxxx x xxx x xxxxxxx x x xxxxxxx
+   x  x  xxxxx  x  x   x   x  x  xxxxx  x  x  x  xxxxx  x x  xxxxxx
+x xxxxxxx xxx xxxxxxx xxx xxxxxxx xxx xxxxxxxxxxx xxx xxx xxx xxxxx
+   xxxxx   x   xxxxx   x   xxxxx   x   xxxxxxxxx   x   x   x   xxxx
+x x xxx x xxx x xxx x xxx x xxx x xxx x xxxxxxx x xxx xxx xxx x xxx
+  x  x  x  x  x  x  x  x  x  x  x  x  x  xxxxx  x  x   x   x  x  xx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx xxx xxxxxxx xxx xxxxxxx x
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx   x   xxxxx   x   xxxxx   
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx x xxx x xxx x xxx x xxx x x
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx  x  x  x  x  x  x  x  x  x  
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx xxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx   xxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx x x xxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx  x x  xxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx xxx xxx xxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx   x   x   xxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx x xxx xxx x xxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx  x  x   x  x  xxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxx xxxxxxx xxxxxxx xxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxx   xxxxx   xxxxx   xxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxx x x xxx x x xxx x x xxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxx  x x  x  x x  x  x x  xxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxx xxx xxxxxxx xxxxxxx xxx xxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxx   x   xxxxx   xxxxx   x   xxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxx x xxx x xxx x x xxx x xxx x xxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxx  x  x  x  x  x x  x  x  x  x  xxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxx xxxxxxxxxxxxxxx xxxxxxxxxxxxxxx xxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxx   xxxxxxxxxxxxx   xxxxxxxxxxxxx   xxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxx x x xxxxxxxxxxx x x xxxxxxxxxxx x x xxxxxxxxxxx
+xxxxxxxxxxxxxxxxxx  x x  xxxxxxxxx  x x  xxxxxxxxx  x x  xxxxxxxxxx
+xxxxxxxxxxxxxxxxx xxx xxx xxxxxxx xxx xxx xxxxxxx xxx xxx xxxxxxxxx
+xxxxxxxxxxxxxxxx   x   x   xxxxx   x   x   xxxxx   x   x   xxxxxxxx
+xxxxxxxxxxxxxxx x xxx xxx x xxx x xxx xxx x xxx x xxx xxx x xxxxxxx
+xxxxxxxxxxxxxx  x  x   x  x  x  x  x   x  x  x  x  x   x  x  xxxxxx
+xxxxxxxxxxxxx xxxxxxx xxxxxxxxxxxxxxx xxxxxxxxxxxxxxx xxxxxxx xxxxx
+xxxxxxxxxxxx   xxxxx   xxxxxxxxxxxxx   xxxxxxxxxxxxx   xxxxx   xxxx
+xxxxxxxxxxx x x xxx x x xxxxxxxxxxx x x xxxxxxxxxxx x x xxx x x xxx
+xxxxxxxxxx  x x  x  x x  xxxxxxxxx  x x  xxxxxxxxx  x x  x  x x  xx
+xxxxxxxxx xxx xxxxxxx xxx xxxxxxx xxx xxx xxxxxxx xxx xxxxxxx xxx x
+xxxxxxxx   x   xxxxx   x   xxxxx   x   x   xxxxx   x   xxxxx   x   
+xxxxxxx x xxx x xxx x xxx x xxx x xxx xxx x xxx x xxx x xxx x xxx x
+xxxxxx  x  x  x  x  x  x  x  x  x  x   x  x  x  x  x  x  x  x  x   
+xxxxx xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx xxxxxxxxxxxxxxxxxxxxxxxxxxx x
+xxxx   xxxxxxxxxxxxxxxxxxxxxxxxxxxxx   xxxxxxxxxxxxxxxxxxxxxxxxx   
+xxx x x xxxxxxxxxxxxxxxxxxxxxxxxxxx x x xxxxxxxxxxxxxxxxxxxxxxx x x
+xx  x x  xxxxxxxxxxxxxxxxxxxxxxxxx  x x  xxxxxxxxxxxxxxxxxxxxx  x  
+x xxx xxx xxxxxxxxxxxxxxxxxxxxxxx xxx xxx xxxxxxxxxxxxxxxxxxx xxxxx
+   x   x   xxxxxxxxxxxxxxxxxxxxx   x   x   xxxxxxxxxxxxxxxxx   xxxx
+x xxx xxx x xxxxxxxxxxxxxxxxxxx x xxx xxx x xxxxxxxxxxxxxxx x x xxx
+   x   x  x  xxxxxxxxxxxxxxxxx  x  x   x  x  xxxxxxxxxxxxx  x x  xx
+x xxx xxxxxxx xxxxxxxxxxxxxxx xxxxxxx xxxxxxx xxxxxxxxxxx xxx xxx x
+   x   xxxxx   xxxxxxxxxxxxx   xxxxx   xxxxx   xxxxxxxxx   x   x   
+x xxx x xxx x x xxxxxxxxxxx x x xxx x x xxx x x xxxxxxx x xxx xxx x
+   x  x  x  x x  xxxxxxxxx  x x  x  x x  x  x x  xxxxx  x  x   x   
+x xxxxxxxxxxx xxx xxxxxxx xxx xxxxxxx xxxxxxx xxx xxx xxxxxxx xxx x
+   xxxxxxxxx   x   xxxxx   x   xxxxx   xxxxx   x   x   xxxxx   x   
+x x xxxxxxx x xxx x xxx x xxx x xxx x x xxx x xxx xxx x xxx x xxx x
+  x  xxxxx  x  x  x  x  x  x  x  x  x x  x  x  x   x  x  x  x  x   
+xxxxx xxx xxxxxxxxxxxxxxxxxxxxxxxxxxx xxxxxxxxxxx xxxxxxxxxxxxxxx x
+xxxx   x   xxxxxxxxxxxxxxxxxxxxxxxxx   xxxxxxxxx   xxxxxxxxxxxxx   
+xxx x xxx x xxxxxxxxxxxxxxxxxxxxxxx x x xxxxxxx x x xxxxxxxxxxx x x
+xx  x  x  x  xxxxxxxxxxxxxxxxxxxxx  x x  xxxxx  x x  xxxxxxxxx  x  
+x xxxxxxxxxxx xxxxxxxxxxxxxxxxxxx xxx xxx xxx xxx xxx xxxxxxx xxxxx
+   xxxxxxxxx   xxxxxxxxxxxxxxxxx   x   x   x   x   x   xxxxx   xxxx
+x x xxxxxxx x x xxxxxxxxxxxxxxx x xxx xxx xxx xxx xxx x xxx x x xxx
+  x  xxxxx  x x  xxxxxxxxxxxxx  x  x   x   x   x   x  x  x  x x  xx
+xxxxx xxx xxx xxx xxxxxxxxxxx xxxxxxx xxx xxx xxx xxxxxxxxxxx xxx x
+xxxx   x   x   x   xxxxxxxxx   xxxxx   x   x   x   xxxxxxxxx   x   
+xxx x xxx xxx xxx x xxxxxxx x x xxx x xxx xxx xxx x xxxxxxx x xxx x
+xx  x  x   x   x  x  xxxxx  x x  x  x  x   x   x  x  xxxxx  x  x   
+x xxxxxxx xxx xxxxxxx xxx xxx xxxxxxxxxxx xxx xxxxxxx xxx xxxxxxx x
+   xxxxx   x   xxxxx   x   x   xxxxxxxxx   x   xxxxx   x   xxxxx   
+x x xxx x xxx x xxx x xxx xxx x xxxxxxx x xxx x xxx x xxx x xxx x x
+  x  x  x  x  x  x  x  x   x  x  xxxxx  x  x  x  x  x  x  x  x  x  
+xxxxxxxxxxxxxxxxxxxxxxxxx xxxxxxx xxx xxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxx   xxxxx   x   xxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxx x x xxx x xxx x xxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxx  x x  x  x  x  x  xxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxx xxx xxxxxxxxxxxxxxx xxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxx   x   xxxxxxxxxxxxx   xxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxx x xxx x xxxxxxxxxxx x x xxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxx  x  x  x  xxxxxxxxx  x x  xxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxx xxxxxxxxxxx xxxxxxx xxx xxx xxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxx   xxxxxxxxx   xxxxx   x   x   xxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxx x x xxxxxxx x x xxx x xxx xxx x xxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxx  x x  xxxxx  x x  x  x  x   x  x  xxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxx xxx xxx xxx xxx xxxxxxxxxxx xxxxxxx xxxxxxxxxxxxxxxxx
+xxxxxxxxxxxx   x   x   x   x   xxxxxxxxx   xxxxx   xxxxxxxxxxxxxxxx
+xxxxxxxxxxx x xxx xxx xxx xxx x xxxxxxx x x xxx x x xxxxxxxxxxxxxxx
+xxxxxxxxxx  x  x   x   x   x  x  xxxxx  x x  x  x x  xxxxxxxxxxxxxx
+xxxxxxxxx xxxxxxx xxx xxx xxxxxxx xxx xxx xxxxxxx xxx xxxxxxxxxxxxx
+xxxxxxxx   xxxxx   x   x   xxxxx   x   x   xxxxx   x   xxxxxxxxxxxx
+xxxxxxx x x xxx x xxx xxx x xxx x xxx xxx x xxx x xxx x xxxxxxxxxxx
+xxxxxx  x x  x  x  x   x  x  x  x  x   x  x  x  x  x  x  xxxxxxxxxx
+xxxxx xxx xxxxxxxxxxx xxxxxxxxxxxxxxx xxxxxxxxxxxxxxxxxxx xxxxxxxxx
+xxxx   x   xxxxxxxxx   xxxxxxxxxxxxx   xxxxxxxxxxxxxxxxx   xxxxxxxx
+xxx x xxx x xxxxxxx x x xxxxxxxxxxx x x xxxxxxxxxxxxxxx x x xxxxxxx
+xx  x  x  x  xxxxx  x x  xxxxxxxxx  x x  xxxxxxxxxxxxx  x x  xxxxxx
+x xxxxxxxxxxx xxx xxx xxx xxxxxxx xxx xxx xxxxxxxxxxx xxx xxx xxxxx
+   xxxxxxxxx   x   x   x   xxxxx   x   x   xxxxxxxxx   x   x   xxxx
+x x xxxxxxx x xxx xxx xxx x xxx x xxx xxx x xxxxxxx x xxx xxx x xxx
+  x  xxxxx  x  x   x   x  x  x  x  x   x  x  xxxxx  x  x   x  x  xx
+xxxxx xxx xxxxxxx xxx xxxxxxxxxxxxxxx xxxxxxx xxx xxxxxxx xxxxxxx x
+xxxx   x   xxxxx   x   xxxxxxxxxxxxx   xxxxx   x   xxxxx   xxxxx   
+xxx x xxx x xxx x xxx x xxxxxxxxxxx x x xxx x xxx x xxx x x xxx x x
+xx  x  x  x  x  x  x  x  xxxxxxxxx  x x  x  x  x  x  x  x x  x  x  
+x xxxxxxxxxxxxxxxxxxxxxxx xxxxxxx xxx xxxxxxxxxxxxxxxxxxx xxxxxxxxx
+   xxxxxxxxxxxxxxxxxxxxx   xxxxx   x   xxxxxxxxxxxxxxxxx   xxxxxxxx
+x x xxxxxxxxxxxxxxxxxxx x x xxx x xxx x xxxxxxxxxxxxxxx x x xxxxxxx
+  x  xxxxxxxxxxxxxxxxx  x x  x  x  x  x  xxxxxxxxxxxxx  x x  xxxxxx
+xxxxx xxxxxxxxxxxxxxx xxx xxxxxxxxxxxxxxx xxxxxxxxxxx xxx xxx xxxxx
+xxxx   xxxxxxxxxxxxx   x   xxxxxxxxxxxxx   xxxxxxxxx   x   x   xxxx
+xxx x x xxxxxxxxxxx x xxx x xxxxxxxxxxx x x xxxxxxx x xxx xxx x xxx
+xx  x x  xxxxxxxxx  x  x  x  xxxxxxxxx  x x  xxxxx  x  x   x  x  xx
+x xxx xxx xxxxxxx xxxxxxxxxxx xxxxxxx xxx xxx xxx xxxxxxx xxxxxxx x
+   x   x   xxxxx   xxxxxxxxx   xxxxx   x   x   x   xxxxx   xxxxx   
+x xxx xxx x xxx x x xxxxxxx x x xxx x xxx xxx xxx x xxx x x xxx x x
+   x   x  x  x  x x  xxxxx  x x  x  x  x   x   x  x  x  x x  x  x  
+x xxx xxxxxxxxxxx xxx xxx xxx xxxxxxxxxxx xxx xxxxxxxxxxx xxxxxxxxx
+   x   xxxxxxxxx   x   x   x   xxxxxxxxx   x   xxxxxxxxx   xxxxxxxx
+x xxx x xxxxxxx x xxx xxx xxx x xxxxxxx x xxx x xxxxxxx x x xxxxxxx
+   x  x  xxxxx  x  x   x   x  x  xxxxx  x  x  x  xxxxx  x x  xxxxxx
+x xxxxxxx xxx xxxxxxx xxx xxxxxxx xxx xxxxxxxxxxx xxx xxx xxx xxxxx
+   xxxxx   x   xxxxx   x   xxxxx   x   xxxxxxxxx   x   x   x   xxxx
+x x xxx x xxx x xxx x xxx x xxx x xxx x xxxxxxx x xxx xxx xxx x xxx
+  x  x  x  x  x  x  x  x  x  x  x  x  x  xxxxx  x  x   x   x  x  xx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx xxx xxxxxxx xxx xxxxxxx x
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx   x   xxxxx   x   xxxxx   
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx x xxx x xxx x xxx x xxx x x
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx  x  x  x  x  x  x  x  x  x  
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx xxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx   xxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx x x xxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx  x x  xxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx xxx xxx xxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx   x   x   xxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx x xxx xxx x xxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx  x  x   x  x  xxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxx xxxxxxx xxxxxxx xxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxx   xxxxx   xxxxx   xxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxx x x xxx x x xxx x x xxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxx  x x  x  x x  x  x x  xxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxx xxx xxxxxxx xxxxxxx xxx xxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxx   x   xxxxx   xxxxx   x   xxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxx x xxx x xxx x x xxx x xxx x xxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxx  x  x  x  x  x x  x  x  x  x  xxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxx xxxxxxxxxxxxxxx xxxxxxxxxxxxxxx xxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxx   xxxxxxxxxxxxx   xxxxxxxxxxxxx   xxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxx x x xxxxxxxxxxx x x xxxxxxxxxxx x x xxxxxxxxxxx
+xxxxxxxxxxxxxxxxxx  x x  xxxxxxxxx  x x  xxxxxxxxx  x x  xxxxxxxxxx
+xxxxxxxxxxxxxxxxx xxx xxx xxxxxxx xxx xxx xxxxxxx xxx xxx xxxxxxxxx
+xxxxxxxxxxxxxxxx   x   x   xxxxx   x   x   xxxxx   x   x   xxxxxxxx
+xxxxxxxxxxxxxxx x xxx xxx x xxx x xxx xxx x xxx x xxx xxx x xxxxxxx
+xxxxxxxxxxxxxx  x  x   x  x  x  x  x   x  x  x  x  x   x  x  xxxxxx
+xxxxxxxxxxxxx xxxxxxx xxxxxxxxxxxxxxx xxxxxxxxxxxxxxx xxxxxxx xxxxx
+xxxxxxxxxxxx   xxxxx   xxxxxxxxxxxxx   xxxxxxxxxxxxx   xxxxx   xxxx
+xxxxxxxxxxx x x xxx x x xxxxxxxxxxx x x xxxxxxxxxxx x x xxx x x xxx
+xxxxxxxxxx  x x  x  x x  xxxxxxxxx  x x  xxxxxxxxx  x x  x  x x  xx
+xxxxxxxxx xxx xxxxxxx xxx xxxxxxx xxx xxx xxxxxxx xxx xxxxxxx xxx x
+xxxxxxxx   x   xxxxx   x   xxxxx   x   x   xxxxx   x   xxxxx   x   
+xxxxxxx x xxx x xxx x xxx x xxx x xxx xxx x xxx x xxx x xxx x xxx x
+xxxxxx  x  x  x  x  x  x  x  x  x  x   x  x  x  x  x  x  x  x  x   
+xxxxx xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx xxxxxxxxxxxxxxxxxxxxxxxxxxx x
+xxxx   xxxxxxxxxxxxxxxxxxxxxxxxxxxxx   xxxxxxxxxxxxxxxxxxxxxxxxx   
+xxx x x xxxxxxxxxxxxxxxxxxxxxxxxxxx x x xxxxxxxxxxxxxxxxxxxxxxx x x
+xx  x x  xxxxxxxxxxxxxxxxxxxxxxxxx  x x  xxxxxxxxxxxxxxxxxxxxx  x  
+x xxx xxx xxxxxxxxxxxxxxxxxxxxxxx xxx xxx xxxxxxxxxxxxxxxxxxx xxxxx
+   x   x   xxxxxxxxxxxxxxxxxxxxx   x   x   xxxxxxxxxxxxxxxxx   xxxx
+x xxx xxx x xxxxxxxxxxxxxxxxxxx x xxx xxx x xxxxxxxxxxxxxxx x x xxx
+   x   x  x  xxxxxxxxxxxxxxxxx  x  x   x  x  xxxxxxxxxxxxx  x x  xx
+x xxx xxxxxxx xxxxxxxxxxxxxxx xxxxxxx xxxxxxx xxxxxxxxxxx xxx xxx x
+   x   xxxxx   xxxxxxxxxxxxx   xxxxx   xxxxx   xxxxxxxxx   x   x   
+x xxx x xxx x x xxxxxxxxxxx x x xxx x x xxx x x xxxxxxx x xxx xxx x
+   x  x  x  x x  xxxxxxxxx  x x  x  x x  x  x x  xxxxx  x  x   x   
+x xxxxxxxxxxx xxx xxxxxxx xxx xxxxxxx xxxxxxx xxx xxx xxxxxxx xxx x
+   xxxxxxxxx   x   xxxxx   x   xxxxx   xxxxx   x   x   xxxxx   x   
+x x xxxxxxx x xxx x xxx x xxx x xxx x x xxx x xxx xxx x xxx x xxx x
+  x  xxxxx  x  x  x  x  x  x  x  x  x x  x  x  x   x  x  x  x  x   
+xxxxx xxx xxxxxxxxxxxxxxxxxxxxxxxxxxx xxxxxxxxxxx xxxxxxxxxxxxxxx x
+xxxx   x   xxxxxxxxxxxxxxxxxxxxxxxxx   xxxxxxxxx   xxxxxxxxxxxxx   
+xxx x xxx x xxxxxxxxxxxxxxxxxxxxxxx x x xxxxxxx x x xxxxxxxxxxx x x
+xx  x  x  x  xxxxxxxxxxxxxxxxxxxxx  x x  xxxxx  x x  xxxxxxxxx  x  
+x xxxxxxxxxxx xxxxxxxxxxxxxxxxxxx xxx xxx xxx xxx xxx xxxxxxx xxxxx
+   xxxxxxxxx   xxxxxxxxxxxxxxxxx   x   x   x   x   x   xxxxx   xxxx
+x x xxxxxxx x x xxxxxxxxxxxxxxx x xxx xxx xxx xxx xxx x xxx x x xxx
+  x  xxxxx  x x  xxxxxxxxxxxxx  x  x   x   x   x   x  x  x  x x  xx
+xxxxx xxx xxx xxx xxxxxxxxxxx xxxxxxx xxx xxx xxx xxxxxxxxxxx xxx x
+xxxx   x   x   x   xxxxxxxxx   xxxxx   x   x   x   xxxxxxxxx   x   
+xxx x xxx xxx xxx x xxxxxxx x x xxx x xxx xxx xxx x xxxxxxx x xxx x
+xx  x  x   x   x  x  xxxxx  x x  x  x  x   x   x  x  xxxxx  x  x   
+x xxxxxxx xxx xxxxxxx xxx xxx xxxxxxxxxxx xxx xxxxxxx xxx xxxxxxx x
+   xxxxx   x   xxxxx   x   x   xxxxxxxxx   x   xxxxx   x   xxxxx   
+x x xxx x xxx x xxx x xxx xxx x xxxxxxx x xxx x xxx x xxx x xxx x x
+  x  x  x  x  x  x  x  x   x  x  xxxxx  x  x  x  x  x  x  x  x  x  
+xxxxxxxxxxxxxxxxxxxxxxxxx xxxxxxx xxx xxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxx   xxxxx   x   xxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxx x x xxx x xxx x xxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxx  x x  x  x  x  x  xxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxx xxx xxxxxxxxxxxxxxx xxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxx   x   xxxxxxxxxxxxx   xxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxx x xxx x xxxxxxxxxxx x x xxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxx  x  x  x  xxxxxxxxx  x x  xxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxx xxxxxxxxxxx xxxxxxx xxx xxx xxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxx   xxxxxxxxx   xxxxx   x   x   xxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxx x x xxxxxxx x x xxx x xxx xxx x xxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxx  x x  xxxxx  x x  x  x  x   x  x  xxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxx xxx xxx xxx xxx xxxxxxxxxxx xxxxxxx xxxxxxxxxxxxxxxxx
+xxxxxxxxxxxx   x   x   x   x   xxxxxxxxx   xxxxx   xxxxxxxxxxxxxxxx
+xxxxxxxxxxx x xxx xxx xxx xxx x xxxxxxx x x xxx x x xxxxxxxxxxxxxxx
+xxxxxxxxxx  x  x   x   x   x  x  xxxxx  x x  x  x x  xxxxxxxxxxxxxx
+xxxxxxxxx xxxxxxx xxx xxx xxxxxxx xxx xxx xxxxxxx xxx xxxxxxxxxxxxx
+xxxxxxxx   xxxxx   x   x   xxxxx   x   x   xxxxx   x   xxxxxxxxxxxx
+xxxxxxx x x xxx x xxx xxx x xxx x xxx xxx x xxx x xxx x xxxxxxxxxxx
+xxxxxx  x x  x  x  x   x  x  x  x  x   x  x  x  x  x  x  xxxxxxxxxx
+xxxxx xxx xxxxxxxxxxx xxxxxxxxxxxxxxx xxxxxxxxxxxxxxxxxxx xxxxxxxxx
+xxxx   x   xxxxxxxxx   xxxxxxxxxxxxx   xxxxxxxxxxxxxxxxx   xxxxxxxx
+xxx x xxx x xxxxxxx x x xxxxxxxxxxx x x xxxxxxxxxxxxxxx x x xxxxxxx
+xx  x  x  x  xxxxx  x x  xxxxxxxxx  x x  xxxxxxxxxxxxx  x x  xxxxxx
+x xxxxxxxxxxx xxx xxx xxx xxxxxxx xxx xxx xxxxxxxxxxx xxx xxx xxxxx
+   xxxxxxxxx   x   x   x   xxxxx   x   x   xxxxxxxxx   x   x   xxxx
+x x xxxxxxx x xxx xxx xxx x xxx x xxx xxx x xxxxxxx x xxx xxx x xxx
+  x  xxxxx  x  x   x   x  x  x  x  x   x  x  xxxxx  x  x   x  x  xx
+xxxxx xxx xxxxxxx xxx xxxxxxxxxxxxxxx xxxxxxx xxx xxxxxxx xxxxxxx x
+xxxx   x   xxxxx   x   xxxxxxxxxxxxx   xxxxx   x   xxxxx   xxxxx   
+xxx x xxx x xxx x xxx x xxxxxxxxxxx x x xxx x xxx x xxx x x xxx x x
+xx  x  x  x  x  x  x  x  xxxxxxxxx  x x  x  x  x  x  x  x x  x  x  
+x xxxxxxxxxxxxxxxxxxxxxxx xxxxxxx xxx xxxxxxxxxxxxxxxxxxx xxxxxxxxx
+   xxxxxxxxxxxxxxxxxxxxx   xxxxx   x   xxxxxxxxxxxxxxxxx   xxxxxxxx
+x x xxxxxxxxxxxxxxxxxxx x x xxx x xxx x xxxxxxxxxxxxxxx x x xxxxxxx
+  x  xxxxxxxxxxxxxxxxx  x x  x  x  x  x  xxxxxxxxxxxxx  x x  xxxxxx
+xxxxx xxxxxxxxxxxxxxx xxx xxxxxxxxxxxxxxx xxxxxxxxxxx xxx xxx xxxxx
+xxxx   xxxxxxxxxxxxx   x   xxxxxxxxxxxxx   xxxxxxxxx   x   x   xxxx
+xxx x x xxxxxxxxxxx x xxx x xxxxxxxxxxx x x xxxxxxx x xxx xxx x xxx
+xx  x x  xxxxxxxxx  x  x  x  xxxxxxxxx  x x  xxxxx  x  x   x  x  xx
+x xxx xxx xxxxxxx xxxxxxxxxxx xxxxxxx xxx xxx xxx xxxxxxx xxxxxxx x
+   x   x   xxxxx   xxxxxxxxx   xxxxx   x   x   x   xxxxx   xxxxx   
+x xxx xxx x xxx x x xxxxxxx x x xxx x xxx xxx xxx x xxx x x xxx x x
+   x   x  x  x  x x  xxxxx  x x  x  x  x   x   x  x  x  x x  x  x  
+x xxx xxxxxxxxxxx xxx xxx xxx xxxxxxxxxxx xxx xxxxxxxxxxx xxxxxxxxx
+   x   xxxxxxxxx   x   x   x   xxxxxxxxx   x   xxxxxxxxx   xxxxxxxx
+x xxx x xxxxxxx x xxx xxx xxx x xxxxxxx x xxx x xxxxxxx x x xxxxxxx
+   x  x  xxxxx  x  x   x   x  x  xxxxx  x  x  x  xxxxx  x x  xxxxxx
+x xxxxxxx xxx xxxxxxx xxx xxxxxxx xxx xxxxxxxxxxx xxx xxx xxx xxxxx
+   xxxxx   x   xxxxx   x   xxxxx   x   xxxxxxxxx   x   x   x   xxxx
+x x xxx x xxx x xxx x xxx x xxx x xxx x xxxxxxx x xxx xxx xxx x xxx
+  x  x  x  x  x  x  x  x  x  x  x  x  x  xxxxx  x  x   x   x  x  xx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx xxx xxxxxxx xxx xxxxxxx x
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx   x   xxxxx   x   xxxxx   
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx x xxx x xxx x xxx x xxx x x
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx  x  x  x  x  x  x  x  x  x  
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx xxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx   xxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx x x xxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx  x x  xxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx xxx xxx xxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx   x   x   xxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx x xxx xxx x xxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx  x  x   x  x  xxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxx xxxxxxx xxxxxxx xxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxx   xxxxx   xxxxx   xxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxx x x xxx x x xxx x x xxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxx  x x  x  x x  x  x x  xxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxx xxx xxxxxxx xxxxxxx xxx xxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxx   x   xxxxx   xxxxx   x   xxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxx x xxx x xxx x x xxx x xxx x xxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxx  x  x  x  x  x x  x  x  x  x  xxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxx xxxxxxxxxxxxxxx xxxxxxxxxxxxxxx xxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxx   xxxxxxxxxxxxx   xxxxxxxxxxxxx   xxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxx x x xxxxxxxxxxx x x xxxxxxxxxxx x x xxxxxxxxxxx
+xxxxxxxxxxxxxxxxxx  x x  xxxxxxxxx  x x  xxxxxxxxx  x x  xxxxxxxxxx
+xxxxxxxxxxxxxxxxx xxx xxx xxxxxxx xxx xxx xxxxxxx xxx xxx xxxxxxxxx
+xxxxxxxxxxxxxxxx   x   x   xxxxx   x   x   xxxxx   x   x   xxxxxxxx
+xxxxxxxxxxxxxxx x xxx xxx x xxx x xxx xxx x xxx x xxx xxx x xxxxxxx
+xxxxxxxxxxxxxx  x  x   x  x  x  x  x   x  x  x  x  x   x  x  xxxxxx
+xxxxxxxxxxxxx xxxxxxx xxxxxxxxxxxxxxx xxxxxxxxxxxxxxx xxxxxxx xxxxx
+xxxxxxxxxxxx   xxxxx   xxxxxxxxxxxxx   xxxxxxxxxxxxx   xxxxx   xxxx
+xxxxxxxxxxx x x xxx x x xxxxxxxxxxx x x xxxxxxxxxxx x x xxx x x xxx
+xxxxxxxxxx  x x  x  x x  xxxxxxxxx  x x  xxxxxxxxx  x x  x  x x  xx
+xxxxxxxxx xxx xxxxxxx xxx xxxxxxx xxx xxx xxxxxxx xxx xxxxxxx xxx x
+xxxxxxxx   x   xxxxx   x   xxxxx   x   x   xxxxx   x   xxxxx   x   
+xxxxxxx x xxx x xxx x xxx x xxx x xxx xxx x xxx x xxx x xxx x xxx x
+xxxxxx  x  x  x  x  x  x  x  x  x  x   x  x  x  x  x  x  x  x  x   
+xxxxx xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx xxxxxxxxxxxxxxxxxxxxxxxxxxx x
+xxxx   xxxxxxxxxxxxxxxxxxxxxxxxxxxxx   xxxxxxxxxxxxxxxxxxxxxxxxx   
+xxx x x xxxxxxxxxxxxxxxxxxxxxxxxxxx x x xxxxxxxxxxxxxxxxxxxxxxx x x
+xx  x x  xxxxxxxxxxxxxxxxxxxxxxxxx  x x  xxxxxxxxxxxxxxxxxxxxx  x  
+x xxx xxx xxxxxxxxxxxxxxxxxxxxxxx xxx xxx xxxxxxxxxxxxxxxxxxx xxxxx
+   x   x   xxxxxxxxxxxxxxxxxxxxx   x   x   xxxxxxxxxxxxxxxxx   xxxx
+x xxx xxx x xxxxxxxxxxxxxxxxxxx x xxx xxx x xxxxxxxxxxxxxxx x x xxx
+   x   x  x  xxxxxxxxxxxxxxxxx  x  x   x  x  xxxxxxxxxxxxx  x x  xx
+x xxx xxxxxxx xxxxxxxxxxxxxxx xxxxxxx xxxxxxx xxxxxxxxxxx xxx xxx x
+   x   xxxxx   xxxxxxxxxxxxx   xxxxx   xxxxx   xxxxxxxxx   x   x   
+x xxx x xxx x x xxxxxxxxxxx x x xxx x x xxx x x xxxxxxx x xxx xxx x
+   x  x  x  x x  xxxxxxxxx  x x  x  x x  x  x x  xxxxx  x  x   x   
+x xxxxxxxxxxx xxx xxxxxxx xxx xxxxxxx xxxxxxx xxx xxx xxxxxxx xxx x
+   xxxxxxxxx   x   xxxxx   x   xxxxx   xxxxx   x   x   xxxxx   x   
+x x xxxxxxx x xxx x xxx x xxx x xxx x x xxx x xxx xxx x xxx x xxx x
+  x  xxxxx  x  x  x  x  x  x  x  x  x x  x  x  x   x  x  x  x  x   
+xxxxx xxx xxxxxxxxxxxxxxxxxxxxxxxxxxx xxxxxxxxxxx xxxxxxxxxxxxxxx x
+xxxx   x   xxxxxxxxxxxxxxxxxxxxxxxxx   xxxxxxxxx   xxxxxxxxxxxxx   
+xxx x xxx x xxxxxxxxxxxxxxxxxxxxxxx x x xxxxxxx x x xxxxxxxxxxx x x
+xx  x  x  x  xxxxxxxxxxxxxxxxxxxxx  x x  xxxxx  x x  xxxxxxxxx  x  
+x xxxxxxxxxxx xxxxxxxxxxxxxxxxxxx xxx xxx xxx xxx xxx xxxxxxx xxxxx
+   xxxxxxxxx   xxxxxxxxxxxxxxxxx   x   x   x   x   x   xxxxx   xxxx
+x x xxxxxxx x x xxxxxxxxxxxxxxx x xxx xxx xxx xxx xxx x xxx x x xxx
+  x  xxxxx  x x  xxxxxxxxxxxxx  x  x   x   x   x   x  x  x  x x  xx
+xxxxx xxx xxx xxx xxxxxxxxxxx xxxxxxx xxx xxx xxx xxxxxxxxxxx xxx x
+xxxx   x   x   x   xxxxxxxxx   xxxxx   x   x   x   xxxxxxxxx   x   
+xxx x xxx xxx xxx x xxxxxxx x x xxx x xxx xxx xxx x xxxxxxx x xxx x
+xx  x  x   x   x  x  xxxxx  x x  x  x  x   x   x  x  xxxxx  x  x   
+x xxxxxxx xxx xxxxxxx xxx xxx xxxxxxxxxxx xxx xxxxxxx xxx xxxxxxx x
+   xxxxx   x   xxxxx   x   x   xxxxxxxxx   x   xxxxx   x   xxxxx   
+x x xxx x xxx x xxx x xxx xxx x xxxxxxx x xxx x xxx x xxx x xxx x x
+  x  x  x  x  x  x  x  x   x  x  xxxxx  x  x  x  x  x  x  x  x  x  
+xxxxxxxxxxxxxxxxxxxxxxxxx xxxxxxx xxx xxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxx   xxxxx   x   xxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxx x x xxx x xxx x xxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxx  x x  x  x  x  x  xxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxx xxx xxxxxxxxxxxxxxx xxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxx   x   xxxxxxxxxxxxx   xxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxx x xxx x xxxxxxxxxxx x x xxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxx  x  x  x  xxxxxxxxx  x x  xxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxx xxxxxxxxxxx xxxxxxx xxx xxx xxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxx   xxxxxxxxx   xxxxx   x   x   xxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxx x x xxxxxxx x x xxx x xxx xxx x xxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxx  x x  xxxxx  x x  x  x  x   x  x  xxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxx xxx xxx xxx xxx xxxxxxxxxxx xxxxxxx xxxxxxxxxxxxxxxxx
+xxxxxxxxxxxx   x   x   x   x   xxxxxxxxx   xxxxx   xxxxxxxxxxxxxxxx
+xxxxxxxxxxx x xxx xxx xxx xxx x xxxxxxx x x xxx x x xxxxxxxxxxxxxxx
+xxxxxxxxxx  x  x   x   x   x  x  xxxxx  x x  x  x x  xxxxxxxxxxxxxx
+xxxxxxxxx xxxxxxx xxx xxx xxxxxxx xxx xxx xxxxxxx xxx xxxxxxxxxxxxx
+xxxxxxxx   xxxxx   x   x   xxxxx   x   x   xxxxx   x   xxxxxxxxxxxx
+xxxxxxx x x xxx x xxx xxx x xxx x xxx xxx x xxx x xxx x xxxxxxxxxxx
+xxxxxx  x x  x  x  x   x  x  x  x  x   x  x  x  x  x  x  xxxxxxxxxx
+xxxxx xxx xxxxxxxxxxx xxxxxxxxxxxxxxx xxxxxxxxxxxxxxxxxxx xxxxxxxxx
+xxxx   x   xxxxxxxxx   xxxxxxxxxxxxx   xxxxxxxxxxxxxxxxx   xxxxxxxx
+xxx x xxx x xxxxxxx x x xxxxxxxxxxx x x xxxxxxxxxxxxxxx x x xxxxxxx
+xx  x  x  x  xxxxx  x x  xxxxxxxxx  x x  xxxxxxxxxxxxx  x x  xxxxxx
+x xxxxxxxxxxx xxx xxx xxx xxxxxxx xxx xxx xxxxxxxxxxx xxx xxx xxxxx
+   xxxxxxxxx   x   x   x   xxxxx   x   x   xxxxxxxxx   x   x   xxxx
+x x xxxxxxx x xxx xxx xxx x xxx x xxx xxx x xxxxxxx x xxx xxx x xxx
+  x  xxxxx  x  x   x   x  x  x  x  x   x  x  xxxxx  x  x   x  x  xx
+xxxxx xxx xxxxxxx xxx xxxxxxxxxxxxxxx xxxxxxx xxx xxxxxxx xxxxxxx x
+xxxx   x   xxxxx   x   xxxxxxxxxxxxx   xxxxx   x   xxxxx   xxxxx   
+xxx x xxx x xxx x xxx x xxxxxxxxxxx x x xxx x xxx x xxx x x xxx x x
+xx  x  x  x  x  x  x  x  xxxxxxxxx  x x  x  x  x  x  x  x x  x  x  
+x xxxxxxxxxxxxxxxxxxxxxxx xxxxxxx xxx xxxxxxxxxxxxxxxxxxx xxxxxxxxx
+   xxxxxxxxxxxxxxxxxxxxx   xxxxx   x   xxxxxxxxxxxxxxxxx   xxxxxxxx
+x x xxxxxxxxxxxxxxxxxxx x x xxx x xxx x xxxxxxxxxxxxxxx x x xxxxxxx
+  x  xxxxxxxxxxxxxxxxx  x x  x  x  x  x  xxxxxxxxxxxxx  x x  xxxxxx
+xxxxx xxxxxxxxxxxxxxx xxx xxxxxxxxxxxxxxx xxxxxxxxxxx xxx xxx xxxxx
+xxxx   xxxxxxxxxxxxx   x   xxxxxxxxxxxxx   xxxxxxxxx   x   x   xxxx
+xxx x x xxxxxxxxxxx x xxx x xxxxxxxxxxx x x xxxxxxx x xxx xxx x xxx
+xx  x x  xxxxxxxxx  x  x  x  xxxxxxxxx  x x  xxxxx  x  x   x  x  xx
+x xxx xxx xxxxxxx xxxxxxxxxxx xxxxxxx xxx xxx xxx xxxxxxx xxxxxxx x
+   x   x   xxxxx   xxxxxxxxx   xxxxx   x   x   x   xxxxx   xxxxx   
+x xxx xxx x xxx x x xxxxxxx x x xxx x xxx xxx xxx x xxx x x xxx x x
+   x   x  x  x  x x  xxxxx  x x  x  x  x   x   x  x  x  x x  x  x  
+x xxx xxxxxxxxxxx xxx xxx xxx xxxxxxxxxxx xxx xxxxxxxxxxx xxxxxxxxx
+   x   xxxxxxxxx   x   x   x   xxxxxxxxx   x   xxxxxxxxx   xxxxxxxx
+x xxx x xxxxxxx x xxx xxx xxx x xxxxxxx x xxx x xxxxxxx x x xxxxxxx
+   x  x  xxxxx  x  x   x   x  x  xxxxx  x  x  x  xxxxx  x x  xxxxxx
+x xxxxxxx xxx xxxxxxx xxx xxxxxxx xxx xxxxxxxxxxx xxx xxx xxx xxxxx
+   xxxxx   x   xxxxx   x   xxxxx   x   xxxxxxxxx   x   x   x   xxxx
+x x xxx x xxx x xxx x xxx x xxx x xxx x xxxxxxx x xxx xxx xxx x xxx
+  x  x  x  x  x  x  x  x  x  x  x  x  x  xxxxx  x  x   x   x  x  xx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx xxx xxxxxxx xxx xxxxxxx x
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx   x   xxxxx   x   xxxxx   
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx x xxx x xxx x xxx x xxx x x
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx  x  x  x  x  x  x  x  x  x  
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx xxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx   xxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx x x xxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx  x x  xxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx xxx xxx xxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx   x   x   xxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx x xxx xxx x xxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx  x  x   x  x  xxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxx xxxxxxx xxxxxxx xxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxx   xxxxx   xxxxx   xxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxx x x xxx x x xxx x x xxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxx  x x  x  x x  x  x x  xxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxx xxx xxxxxxx xxxxxxx xxx xxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxx   x   xxxxx   xxxxx   x   xxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxx x xxx x xxx x x xxx x xxx x xxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxx  x  x  x  x  x x  x  x  x  x  xxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxx xxxxxxxxxxxxxxx xxxxxxxxxxxxxxx xxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxx   xxxxxxxxxxxxx   xxxxxxxxxxxxx   xxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxx x x xxxxxxxxxxx x x xxxxxxxxxxx x x xxxxxxxxxxx
+xxxxxxxxxxxxxxxxxx  x x  xxxxxxxxx  x x  xxxxxxxxx  x x  xxxxxxxxxx
+xxxxxxxxxxxxxxxxx xxx xxx xxxxxxx xxx xxx xxxxxxx xxx xxx xxxxxxxxx
+xxxxxxxxxxxxxxxx   x   x   xxxxx   x   x   xxxxx   x   x   xxxxxxxx
+xxxxxxxxxxxxxxx x xxx xxx x xxx x xxx xxx x xxx x xxx xxx x xxxxxxx
+xxxxxxxxxxxxxx  x  x   x  x  x  x  x   x  x  x  x  x   x  x  xxxxxx
+xxxxxxxxxxxxx xxxxxxx xxxxxxxxxxxxxxx xxxxxxxxxxxxxxx xxxxxxx xxxxx
+xxxxxxxxxxxx   xxxxx   xxxxxxxxxxxxx   xxxxxxxxxxxxx   xxxxx   xxxx
+xxxxxxxxxxx x x xxx x x xxxxxxxxxxx x x xxxxxxxxxxx x x xxx x x xxx
+xxxxxxxxxx  x x  x  x x  xxxxxxxxx  x x  xxxxxxxxx  x x  x  x x  xx
+xxxxxxxxx xxx xxxxxxx xxx xxxxxxx xxx xxx xxxxxxx xxx xxxxxxx xxx x
+xxxxxxxx   x   xxxxx   x   xxxxx   x   x   xxxxx   x   xxxxx   x   
+xxxxxxx x xxx x xxx x xxx x xxx x xxx xxx x xxx x xxx x xxx x xxx x
+xxxxxx  x  x  x  x  x  x  x  x  x  x   x  x  x  x  x  x  x  x  x   
+xxxxx xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx xxxxxxxxxxxxxxxxxxxxxxxxxxx x
+xxxx   xxxxxxxxxxxxxxxxxxxxxxxxxxxxx   xxxxxxxxxxxxxxxxxxxxxxxxx   
+xxx x x xxxxxxxxxxxxxxxxxxxxxxxxxxx x x xxxxxxxxxxxxxxxxxxxxxxx x x
+xx  x x  xxxxxxxxxxxxxxxxxxxxxxxxx  x x  xxxxxxxxxxxxxxxxxxxxx  x  
+x xxx xxx xxxxxxxxxxxxxxxxxxxxxxx xxx xxx xxxxxxxxxxxxxxxxxxx xxxxx
+   x   x   xxxxxxxxxxxxxxxxxxxxx   x   x   xxxxxxxxxxxxxxxxx   xxxx
+x xxx xxx x xxxxxxxxxxxxxxxxxxx x xxx xxx x xxxxxxxxxxxxxxx x x xxx
+   x   x  x  xxxxxxxxxxxxxxxxx  x  x   x  x  xxxxxxxxxxxxx  x x  xx
+x xxx xxxxxxx xxxxxxxxxxxxxxx xxxxxxx xxxxxxx xxxxxxxxxxx xxx xxx x
+   x   xxxxx   xxxxxxxxxxxxx   xxxxx   xxxxx   xxxxxxxxx   x   x   
+x xxx x xxx x x xxxxxxxxxxx x x xxx x x xxx x x xxxxxxx x xxx xxx x
+   x  x  x  x x  xxxxxxxxx  x x  x  x x  x  x x  xxxxx  x  x   x   
+x xxxxxxxxxxx xxx xxxxxxx xxx xxxxxxx xxxxxxx xxx xxx xxxxxxx xxx x
+   xxxxxxxxx   x   xxxxx   x   xxxxx   xxxxx   x   x   xxxxx   x   
+x x xxxxxxx x xxx x xxx x xxx x xxx x x xxx x xxx xxx x xxx x xxx x
+  x  xxxxx  x  x  x  x  x  x  x  x  x x  x  x  x   x  x  x  x  x   
+xxxxx xxx xxxxxxxxxxxxxxxxxxxxxxxxxxx xxxxxxxxxxx xxxxxxxxxxxxxxx x
+xxxx   x   xxxxxxxxxxxxxxxxxxxxxxxxx   xxxxxxxxx   xxxxxxxxxxxxx   
+xxx x xxx x xxxxxxxxxxxxxxxxxxxxxxx x x xxxxxxx x x xxxxxxxxxxx x x
+xx  x  x  x  xxxxxxxxxxxxxxxxxxxxx  x x  xxxxx  x x  xxxxxxxxx  x  
+x xxxxxxxxxxx xxxxxxxxxxxxxxxxxxx xxx xxx xxx xxx xxx xxxxxxx xxxxx
+   xxxxxxxxx   xxxxxxxxxxxxxxxxx   x   x   x   x   x   xxxxx   xxxx
+x x xxxxxxx x x xxxxxxxxxxxxxxx x xxx xxx xxx xxx xxx x xxx x x xxx
+  x  xxxxx  x x  xxxxxxxxxxxxx  x  x   x   x   x   x  x  x  x x  xx
+xxxxx xxx xxx xxx xxxxxxxxxxx xxxxxxx xxx xxx xxx xxxxxxxxxxx xxx x
+xxxx   x   x   x   xxxxxxxxx   xxxxx   x   x   x   xxxxxxxxx   x   
+xxx x xxx xxx xxx x xxxxxxx x x xxx x xxx xxx xxx x xxxxxxx x xxx x
+xx  x  x   x   x  x  xxxxx  x x  x  x  x   x   x  x  xxxxx  x  x   
+x xxxxxxx xxx xxxxxxx xxx xxx xxxxxxxxxxx xxx xxxxxxx xxx xxxxxxx x
+   xxxxx   x   xxxxx   x   x   xxxxxxxxx   x   xxxxx   x   xxxxx   
+x x xxx x xxx x xxx x xxx xxx x xxxxxxx x xxx x xxx x xxx x xxx x x
+  x  x  x  x  x  x  x  x   x  x  xxxxx  x  x  x  x  x  x  x  x  x  
+xxxxxxxxxxxxxxxxxxxxxxxxx xxxxxxx xxx xxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxx   xxxxx   x   xxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxx x x xxx x xxx x xxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxx  x x  x  x  x  x  xxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxx xxx xxxxxxxxxxxxxxx xxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxx   x   xxxxxxxxxxxxx   xxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxx x xxx x xxxxxxxxxxx x x xxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxx  x  x  x  xxxxxxxxx  x x  xxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxx xxxxxxxxxxx xxxxxxx xxx xxx xxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxx   xxxxxxxxx   xxxxx   x   x   xxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxx x x xxxxxxx x x xxx x xxx xxx x xxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxx  x x  xxxxx  x x  x  x  x   x  x  xxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxx xxx xxx xxx xxx xxxxxxxxxxx xxxxxxx xxxxxxxxxxxxxxxxx
+xxxxxxxxxxxx   x   x   x   x   xxxxxxxxx   xxxxx   xxxxxxxxxxxxxxxx
+xxxxxxxxxxx x xxx xxx xxx xxx x xxxxxxx x x xxx x x xxxxxxxxxxxxxxx
+xxxxxxxxxx  x  x   x   x   x  x  xxxxx  x x  x  x x  xxxxxxxxxxxxxx
+xxxxxxxxx xxxxxxx xxx xxx xxxxxxx xxx xxx xxxxxxx xxx xxxxxxxxxxxxx
+xxxxxxxx   xxxxx   x   x   xxxxx   x   x   xxxxx   x   xxxxxxxxxxxx
+xxxxxxx x x xxx x xxx xxx x xxx x xxx xxx x xxx x xxx x xxxxxxxxxxx
+xxxxxx  x x  x  x  x   x  x  x  x  x   x  x  x  x  x  x  xxxxxxxxxx
+xxxxx xxx xxxxxxxxxxx xxxxxxxxxxxxxxx xxxxxxxxxxxxxxxxxxx xxxxxxxxx
+xxxx   x   xxxxxxxxx   xxxxxxxxxxxxx   xxxxxxxxxxxxxxxxx   xxxxxxxx
+xxx x xxx x xxxxxxx x x xxxxxxxxxxx x x xxxxxxxxxxxxxxx x x xxxxxxx
+xx  x  x  x  xxxxx  x x  xxxxxxxxx  x x  xxxxxxxxxxxxx  x x  xxxxxx
+x xxxxxxxxxxx xxx xxx xxx xxxxxxx xxx xxx xxxxxxxxxxx xxx xxx xxxxx
+   xxxxxxxxx   x   x   x   xxxxx   x   x   xxxxxxxxx   x   x   xxxx
+x x xxxxxxx x xxx xxx xxx x xxx x xxx xxx x xxxxxxx x xxx xxx x xxx
+  x  xxxxx  x  x   x   x  x  x  x  x   x  x  xxxxx  x  x   x  x  xx
+xxxxx xxx xxxxxxx xxx xxxxxxxxxxxxxxx xxxxxxx xxx xxxxxxx xxxxxxx x
+xxxx   x   xxxxx   x   xxxxxxxxxxxxx   xxxxx   x   xxxxx   xxxxx   
+xxx x xxx x xxx x xxx x xxxxxxxxxxx x x xxx x xxx x xxx x x xxx x x
+xx  x  x  x  x  x  x  x  xxxxxxxxx  x x  x  x  x  x  x  x x  x  x  
+x xxxxxxxxxxxxxxxxxxxxxxx xxxxxxx xxx xxxxxxxxxxxxxxxxxxx xxxxxxxxx
+   xxxxxxxxxxxxxxxxxxxxx   xxxxx   x   xxxxxxxxxxxxxxxxx   xxxxxxxx
+x x xxxxxxxxxxxxxxxxxxx x x xxx x xxx x xxxxxxxxxxxxxxx x x xxxxxxx
+  x  xxxxxxxxxxxxxxxxx  x x  x  x  x  x  xxxxxxxxxxxxx  x x  xxxxxx
+xxxxx xxxxxxxxxxxxxxx xxx xxxxxxxxxxxxxxx xxxxxxxxxxx xxx xxx xxxxx
+xxxx   xxxxxxxxxxxxx   x   xxxxxxxxxxxxx   xxxxxxxxx   x   x   xxxx
+xxx x x xxxxxxxxxxx x xxx x xxxxxxxxxxx x x xxxxxxx x xxx xxx x xxx
+xx  x x  xxxxxxxxx  x  x  x  xxxxxxxxx  x x  xxxxx  x  x   x  x  xx
+x xxx xxx xxxxxxx xxxxxxxxxxx xxxxxxx xxx xxx xxx xxxxxxx xxxxxxx x
+   x   x   xxxxx   xxxxxxxxx   xxxxx   x   x   x   xxxxx   xxxxx   
+x xxx xxx x xxx x x xxxxxxx x x xxx x xxx xxx xxx x xxx x x xxx x x
+   x   x  x  x  x x  xxxxx  x x  x  x  x   x   x  x  x  x x  x  x  
+x xxx xxxxxxxxxxx xxx xxx xxx xxxxxxxxxxx xxx xxxxxxxxxxx xxxxxxxxx
+   x   xxxxxxxxx   x   x   x   xxxxxxxxx   x   xxxxxxxxx   xxxxxxxx
+x xxx x xxxxxxx x xxx xxx xxx x xxxxxxx x xxx x xxxxxxx x x xxxxxxx
+   x  x  xxxxx  x  x   x   x  x  xxxxx  x  x  x  xxxxx  x x  xxxxxx
+x xxxxxxx xxx xxxxxxx xxx xxxxxxx xxx xxxxxxxxxxx xxx xxx xxx xxxxx
+   xxxxx   x   xxxxx   x   xxxxx   x   xxxxxxxxx   x   x   x   xxxx
+x x xxx x xxx x xxx x xxx x xxx x xxx x xxxxxxx x xxx xxx xxx x xxx
+  x  x  x  x  x  x  x  x  x  x  x  x  x  xxxxx  x  x   x   x  x  xx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx xxx xxxxxxx xxx xxxxxxx x
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx   x   xxxxx   x   xxxxx   
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx x xxx x xxx x xxx x xxx x x
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx  x  x  x  x  x  x  x  x  x  
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx xxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx   xxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx x x xxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx  x x  xxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx xxx xxx xxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx   x   x   xxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx x xxx xxx x xxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx  x  x   x  x  xxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxx xxxxxxx xxxxxxx xxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxx   xxxxx   xxxxx   xxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxx x x xxx x x xxx x x xxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxx  x x  x  x x  x  x x  xxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxx xxx xxxxxxx xxxxxxx xxx xxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxx   x   xxxxx   xxxxx   x   xxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxx x xxx x xxx x x xxx x xxx x xxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxx  x  x  x  x  x x  x  x  x  x  xxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxx xxxxxxxxxxxxxxx xxxxxxxxxxxxxxx xxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxx   xxxxxxxxxxxxx   xxxxxxxxxxxxx   xxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxx x x xxxxxxxxxxx x x xxxxxxxxxxx x x xxxxxxxxxxx
+xxxxxxxxxxxxxxxxxx  x x  xxxxxxxxx  x x  xxxxxxxxx  x x  xxxxxxxxxx
+xxxxxxxxxxxxxxxxx xxx xxx xxxxxxx xxx xxx xxxxxxx xxx xxx xxxxxxxxx
+xxxxxxxxxxxxxxxx   x   x   xxxxx   x   x   xxxxx   x   x   xxxxxxxx
+xxxxxxxxxxxxxxx x xxx xxx x xxx x xxx xxx x xxx x xxx xxx x xxxxxxx
+xxxxxxxxxxxxxx  x  x   x  x  x  x  x   x  x  x  x  x   x  x  xxxxxx
+xxxxxxxxxxxxx xxxxxxx xxxxxxxxxxxxxxx xxxxxxxxxxxxxxx xxxxxxx xxxxx
+xxxxxxxxxxxx   xxxxx   xxxxxxxxxxxxx   xxxxxxxxxxxxx   xxxxx   xxxx
+xxxxxxxxxxx x x xxx x x xxxxxxxxxxx x x xxxxxxxxxxx x x xxx x x xxx
+xxxxxxxxxx  x x  x  x x  xxxxxxxxx  x x  xxxxxxxxx  x x  x  x x  xx
+xxxxxxxxx xxx xxxxxxx xxx xxxxxxx xxx xxx xxxxxxx xxx xxxxxxx xxx x
+xxxxxxxx   x   xxxxx   x   xxxxx   x   x   xxxxx   x   xxxxx   x   
+xxxxxxx x xxx x xxx x xxx x xxx x xxx xxx x xxx x xxx x xxx x xxx x
+xxxxxx  x  x  x  x  x  x  x  x  x  x   x  x  x  x  x  x  x  x  x   
+xxxxx xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx xxxxxxxxxxxxxxxxxxxxxxxxxxx x
+xxxx   xxxxxxxxxxxxxxxxxxxxxxxxxxxxx   xxxxxxxxxxxxxxxxxxxxxxxxx   
+xxx x x xxxxxxxxxxxxxxxxxxxxxxxxxxx x x xxxxxxxxxxxxxxxxxxxxxxx x x
+xx  x x  xxxxxxxxxxxxxxxxxxxxxxxxx  x x  xxxxxxxxxxxxxxxxxxxxx  x  
+x xxx xxx xxxxxxxxxxxxxxxxxxxxxxx xxx xxx xxxxxxxxxxxxxxxxxxx xxxxx
+   x   x   xxxxxxxxxxxxxxxxxxxxx   x   x   xxxxxxxxxxxxxxxxx   xxxx
+x xxx xxx x xxxxxxxxxxxxxxxxxxx x xxx xxx x xxxxxxxxxxxxxxx x x xxx
+   x   x  x  xxxxxxxxxxxxxxxxx  x  x   x  x  xxxxxxxxxxxxx  x x  xx

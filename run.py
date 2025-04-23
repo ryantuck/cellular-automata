@@ -19,10 +19,6 @@ def binary_rep(rule_no):
         else:
             binary_vals[wo] = 1
 
-        #print(binary_vals)
-        #print(remainder)
-        #print(denominator)
-
         remainder = new_remainder
         denominator = denominator / 2
 
@@ -64,22 +60,28 @@ def print_line(line, symbols, delimiter=''):
 
 
 @cli.command()
-def run(rule_no, seed, left_side, right_side, sleep_ms, symbols):
+def run(rule_no, seed, left_side, right_side, sleep_ms, symbols, iterations):
     """
     Run
     """
-    rule_no = int(rule_no)
+
+    # supports binary notation or wolfram rule numbers
+    if len(rule_no) == 8:
+        binary_rule = rule_no
+    else:
+        binary_rule = ''.join(str(x) for x in binary_rep(int(rule_no)).values())
+
     current_line = [int(x) for x in list(seed)]
     left_side = int(left_side)
     right_side = int(right_side)
     sleep_ms = int(sleep_ms)
+    iterations = int(iterations)
 
-    binary_rule = ''.join(str(x) for x in binary_rep(rule_no).values())
 
-    config = {'rule_no': rule_no, 'binary_rule': binary_rule, 'seed_length': len(seed), 'sides': f'{left_side}{right_side}', 'symbols': symbols}
+    config = {'rule_no': rule_no, 'binary_rule': binary_rule, 'seed_length': len(seed), 'sides': f'{left_side}{right_side}', 'symbols': symbols, 'iterations': iterations}
     print(config)
 
-    while True:
+    for _ in range(iterations):
         print_line(current_line, symbols)
         current_line = iterate(rule_no, current_line, left_side, right_side)
         time.sleep(sleep_ms / 1000)
